@@ -1,1 +1,13 @@
-videos/*/video.mp4 filter=lfs diff=lfs merge=lfs -text
+# Videos up to the Diwali Reel are stored in Git LFS (listed below). Newer videos are
+# regular Git files, so they can be pushed from environments that cannot reach GitHub's
+# LFS storage. Keep each Reel small (a few MB) so the repository stays quick to clone.
+videos/*/video.mp4 -text
+videos/what-if-animals-could-talk/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-cricket-never-came-to-india/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-diwali-lasted-365-days/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-earth-stopped-spinning/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-gravity-switched-off-in-a-mumbai-local/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-the-sun-turned-off/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-you-drove-to-the-moon/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-you-held-your-breath-like-a-whale/video.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/what-if-you-sent-a-samosa-to-the-dinosaurs/video.mp4 filter=lfs diff=lfs merge=lfs -text

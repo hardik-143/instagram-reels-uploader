@@ -32,7 +32,7 @@ Example metadata:
 }
 ```
 
-`queuedAt` is a UTC timestamp used for ordering, not an earliest publish date. The uploader takes one unposted folder per day, sorted by `queuedAt` and then folder name. `caption` is required; `hashtags` is optional and appended to the caption. Keep the combined caption at or under 2,200 characters. Videos must be nonempty MP4 files under 300 MiB and compatible with Meta's Reel video requirements. The repo tracks `videos/*/video.mp4` with Git LFS; install Git LFS before adding files:
+`queuedAt` is a UTC timestamp used for ordering, not an earliest publish date. The uploader takes one unposted folder per day, sorted by `queuedAt` and then folder name. `caption` is required; `hashtags` is optional and appended to the caption. Keep the combined caption at or under 2,200 characters. Videos must be nonempty MP4 files under 300 MiB and compatible with Meta's Reel video requirements. Earlier Reels are stored with Git LFS (listed in `.gitattributes`); newer `video.mp4` files are committed as regular Git files, so keep each one small (a few MB). Install Git LFS so the older videos check out correctly:
 
 ```bash
 git lfs install
@@ -45,11 +45,11 @@ Check the queue with `npm run queue`; completed entries show `done` and their In
 
 ## Publishing and retries
 
-The workflow fetches only the chosen LFS object, places it on a public GitHub Release, and submits its URL to Meta. It waits for video processing before asking Meta to publish. A `status.json` file beside the video is committed to the default branch. Once posted, it has `phase: "published"`, `done: true`, and `postUrl` with the Instagram Reel link. The Actions run summary also shows the link. The temporary release asset is deleted after confirmed publication; the original video remains in the repository.
+The workflow fetches only the chosen video (pulling it from LFS when it is an LFS file), places it on a public GitHub Release, and submits its URL to Meta. It waits for video processing before asking Meta to publish. A `status.json` file beside the video is committed to the default branch. Once posted, it has `phase: "published"`, `done: true`, and `postUrl` with the Instagram Reel link. The Actions run summary also shows the link. The temporary release asset is deleted after confirmed publication; the original video remains in the repository.
 
 If an upload or processing step fails before `media_publish`, the next run resumes the stored container where possible. If a request to `media_publish` has an uncertain result, the job **stops** and asks for manual review rather than risking a duplicate. Confirm the Reel in Instagram and inspect `status.json` and the Meta container before changing its phase. Never delete `status.json` merely to force a retry.
 
-Scheduled workflows run on the default branch and may start later than the exact cron time. A public repository's schedule can be disabled after long inactivity. Monitor the Actions tab and keep GitHub LFS storage and bandwidth available.
+Scheduled workflows run on the default branch and may start later than the exact cron time. A public repository's schedule can be disabled after long inactivity. Monitor the Actions tab and keep GitHub LFS storage and bandwidth available for the older LFS videos. Regular Git videos stay in the repository history permanently, so avoid committing very large files.
 
 ## Local checks
 
