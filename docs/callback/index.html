@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Instagram authorization callback</title>
+  <style>
+    body { max-width: 44rem; margin: 3rem auto; padding: 0 1rem; font: 16px/1.5 system-ui, sans-serif; color: #1b2330; }
+    textarea { box-sizing: border-box; width: 100%; min-height: 7rem; padding: .75rem; overflow-wrap: anywhere; }
+    button { margin-top: .75rem; padding: .65rem 1rem; border: 0; border-radius: .4rem; background: #2353c7; color: white; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>Instagram authorization</h1>
+  <p id="message">Waiting for Instagram to return an authorization code.</p>
+  <textarea id="callback" readonly hidden aria-label="Instagram callback URL"></textarea>
+  <button id="copy" hidden>Copy callback URL</button>
+  <script>
+    const url = new URL(location.href);
+    const message = document.getElementById('message');
+    const field = document.getElementById('callback');
+    const button = document.getElementById('copy');
+    if (url.searchParams.has('code') && url.searchParams.has('state')) {
+      field.value = url.href;
+      field.hidden = false;
+      button.hidden = false;
+      message.textContent = 'Copy this URL and paste it into the terminal running npm run login. Do not share it with anyone.';
+      history.replaceState(null, '', location.pathname);
+      button.addEventListener('click', async () => {
+        await navigator.clipboard.writeText(field.value);
+        button.textContent = 'Copied';
+      });
+    } else if (url.searchParams.has('error')) {
+      message.textContent = 'Instagram did not authorize the app. Return to the terminal and try again.';
+      history.replaceState(null, '', location.pathname);
+    }
+  </script>
+</body>
+</html>
