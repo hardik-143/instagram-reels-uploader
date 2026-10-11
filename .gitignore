@@ -3,3 +3,9 @@
 !.env.example
 node_modules/
 .DS_Store
+
+# generator outputs
+generator/*.mp4
+generator/*.wav
+generator/*.png
+generator/__pycache__/
