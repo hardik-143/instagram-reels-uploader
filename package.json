@@ -1,0 +1,14 @@
+{
+  "name": "instagram-reels-uploader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "login": "node src/login.mjs",
+    "queue": "node src/queue-cli.mjs",
+    "publish": "node src/publish.mjs",
+    "refresh-token": "node src/refresh-token.mjs",
+    "test": "node --test"
+  }
+}

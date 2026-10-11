@@ -1,0 +1,63 @@
+name: Publish next Instagram Reel
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+      timezone: Asia/Kolkata
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Optional video folder name; blank picks the oldest unposted Reel'
+        required: false
+        type: string
+
+concurrency:
+  group: instagram-publishing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate queue and run tests
+        run: |
+          npm test
+          npm run queue
+
+      - name: Select one Reel
+        id: pick
+        env:
+          REQUESTED_SLUG: ${{ inputs.slug }}
+        run: |
+          slug="$(node src/next.mjs "$REQUESTED_SLUG")"
+          echo "slug=$slug" >> "$GITHUB_OUTPUT"
+          if [ -z "$slug" ]; then echo 'Queue is empty.'; fi
+
+      - name: Download selected MP4 from Git LFS
+        if: steps.pick.outputs.slug != ''
+        env:
+          SLUG: ${{ steps.pick.outputs.slug }}
+        run: |
+          git lfs install --local
+          git lfs pull --include="videos/$SLUG/video.mp4" --exclude=''
+
+      - name: Publish to Instagram
+        if: steps.pick.outputs.slug != ''
+        env:
+          SLUG: ${{ steps.pick.outputs.slug }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GH_TOKEN: ${{ github.token }}
+        run: node src/publish.mjs "$SLUG"

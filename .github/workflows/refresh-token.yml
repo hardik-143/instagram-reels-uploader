@@ -1,0 +1,24 @@
+name: Refresh Instagram token
+
+on:
+  schedule:
+    - cron: '17 9 * * 1'
+      timezone: Asia/Kolkata
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh token and replace repository secret
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_SECRETS_WRITE_TOKEN: ${{ secrets.GH_SECRETS_WRITE_TOKEN }}
+        run: node src/refresh-token.mjs
