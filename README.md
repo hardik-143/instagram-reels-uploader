@@ -1,6 +1,6 @@
 # Instagram Reels uploader
 
-Add one MP4 and one `metadata.json` per folder. GitHub Actions publishes the oldest unposted folder every day at 10:00 AM Asia/Kolkata. The account must be an Instagram Business or Creator account. This uses Meta's official **Instagram API with Instagram Login**, not an Instagram password or browser automation.
+Add one MP4 and one `metadata.json` per folder. GitHub Actions publishes one oldest unposted folder at 10:00 AM and another at 6:00 PM Asia/Kolkata each day. The account must be an Instagram Business or Creator account. This uses Meta's official **Instagram API with Instagram Login**, not an Instagram password or browser automation.
 
 ## One-time setup
 
@@ -32,7 +32,7 @@ Example metadata:
 }
 ```
 
-`queuedAt` is a UTC timestamp used for ordering, not an earliest publish date. The uploader takes one unposted folder per day, sorted by `queuedAt` and then folder name. `caption` is required; `hashtags` is optional and appended to the caption. Keep the combined caption at or under 2,200 characters. Videos must be nonempty MP4 files under 300 MiB and compatible with Meta's Reel video requirements. Earlier Reels are stored with Git LFS (listed in `.gitattributes`); newer `video.mp4` files are committed as regular Git files, so keep each one small (a few MB). Install Git LFS so the older videos check out correctly:
+`queuedAt` is a UTC timestamp used for ordering, not an earliest publish date. Each scheduled run takes one unposted folder, sorted by `queuedAt` and then folder name, for up to two Reels per day. `caption` is required; `hashtags` is optional and appended to the caption. Keep the combined caption at or under 2,200 characters. Videos must be nonempty MP4 files under 300 MiB and compatible with Meta's Reel video requirements. Earlier Reels are stored with Git LFS (listed in `.gitattributes`); newer `video.mp4` files are committed as regular Git files, so keep each one small (a few MB). Install Git LFS so the older videos check out correctly:
 
 ```bash
 git lfs install

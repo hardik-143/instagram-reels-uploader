@@ -2,7 +2,7 @@ name: Publish next Instagram Reel
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10,18 * * *'
       timezone: Asia/Kolkata
   workflow_dispatch:
     inputs:
