@@ -13,14 +13,15 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-11 What if you sent a samosa back to the dinosaurs? (`what-if-you-sent-a-samosa-to-the-dinosaurs`)
 - 2026-10-11 What if a day lasted 100 hours? (`what-if-a-day-lasted-100-hours`)
 - 2026-10-11 What if Diwali lasted 365 days? (`what-if-diwali-lasted-365-days`)
+- 2026-10-11 What if all 1.46 billion Indians jumped at once? (`what-if-all-indians-jumped-at-once`)
+- 2026-10-11 What if friction disappeared for 5 seconds? (`what-if-friction-disappeared-for-5-seconds`)
 
 ## Backlog ideas
-- What if friction disappeared for 5 seconds? (auto-rickshaw setting)
 - What if the Moon disappeared for 5 seconds?
 - What if India had no Himalayas?
-- What if all 1.4 billion Indians jumped at the same time?
 - What if dinosaurs never went extinct?
 - What if Earth had rings like Saturn?
 - What if it rained for a whole year?
 - What if humans could photosynthesise?
 - What if the internet disappeared for a day?
+- What if all 8 billion humans stood shoulder to shoulder?
