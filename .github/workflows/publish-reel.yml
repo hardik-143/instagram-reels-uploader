@@ -10,6 +10,11 @@ on:
         description: 'Optional video folder name; blank picks the oldest unposted Reel'
         required: false
         type: string
+      dry_run:
+        description: 'Check the selected video without posting it'
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: instagram-publishing
@@ -57,7 +62,17 @@ jobs:
         if: steps.pick.outputs.slug != ''
         env:
           SLUG: ${{ steps.pick.outputs.slug }}
+          DRY_RUN: ${{ inputs.dry_run }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           GH_TOKEN: ${{ github.token }}
-        run: node src/publish.mjs "$SLUG"
+        run: |
+          if [ -z "$IG_ACCESS_TOKEN" ] || [ -z "$IG_USER_ID" ]; then
+            echo 'Instagram Actions secrets are missing.' >&2
+            exit 1
+          fi
+          if [ "$DRY_RUN" = 'true' ]; then
+            node src/publish.mjs "$SLUG" --dry-run
+          else
+            node src/publish.mjs "$SLUG"
+          fi

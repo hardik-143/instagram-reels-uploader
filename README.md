@@ -41,7 +41,7 @@ git commit -m "Add first Reel"
 git push
 ```
 
-Check the queue with `npm run queue`; completed entries show `done` and their Instagram link. Use `node src/publish.mjs my-first-reel --dry-run` to see the selected caption and file fingerprint without posting. You can run the publish workflow manually with an optional folder name. A normal run takes the oldest unposted folder.
+Check the queue with `npm run queue`; completed entries show `done` and their Instagram link. Use `node src/publish.mjs my-first-reel --dry-run` to see the selected caption and file fingerprint without posting. In Actions, run the publish workflow manually with **dry_run** checked to verify the GitHub setup without posting, or leave it unchecked to publish. An optional folder name selects a specific Reel; a normal run takes the oldest unposted folder.
 
 ## Publishing and retries
 
