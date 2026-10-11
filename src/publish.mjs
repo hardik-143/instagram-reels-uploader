@@ -1,10 +1,10 @@
 import { createHash } from 'node:crypto';
-import { copyFileSync, createReadStream, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { appendFileSync, copyFileSync, createReadStream, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
 import { loadEnv, required } from './env.mjs';
-import { containerStatus, createContainer, publishContainer } from './instagram.mjs';
+import { containerStatus, createContainer, publishedMedia, publishContainer } from './instagram.mjs';
 import { loadEntry, nextEntry } from './queue.mjs';
 import { assertMp4 } from './video.mjs';
 
@@ -70,10 +70,23 @@ async function waitUntilReady(containerId) {
 }
 
 async function finishPublished(mediaId = null) {
-  persist({ ...baseStatus(), phase: 'published', mediaId, publishedAt: new Date().toISOString() });
+  if (!mediaId) throw new Error('Instagram published the Reel, but its media ID is unknown. Find the Reel in Instagram and record its URL manually; do not retry media_publish.');
+  let postUrl;
+  for (let attempt = 0; attempt < 6; attempt++) {
+    try {
+      const media = await publishedMedia(mediaId, token);
+      if (media.permalink) { postUrl = media.permalink; break; }
+    } catch (error) {
+      if (attempt === 5) throw error;
+    }
+    if (attempt < 5) await new Promise((resolve) => setTimeout(resolve, 5_000));
+  }
+  if (!postUrl) throw new Error(`Instagram did not return a permalink for media ${mediaId}; retry this job to save its link without reposting.`);
+  persist({ ...baseStatus(), phase: 'published', done: true, mediaId, postUrl, publishedAt: new Date().toISOString() });
+  if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, `### Published Reel\n\n[${entry.slug}](${postUrl}) — ${postUrl}\n`);
   try { gh('release', 'delete-asset', releaseTag, assetName, '--yes', '--repo', repository); }
   catch (error) { console.warn(`Published, but temporary asset cleanup failed: ${error.message}`); }
-  console.log(`Published ${entry.slug}${mediaId ? ` as ${mediaId}` : ''}.`);
+  console.log(`Published ${entry.slug}: ${postUrl}`);
 }
 
 if (!entry.status) {
@@ -101,17 +114,20 @@ if (!entry.status) {
 
 if (entry.status.phase === 'publish_requested') {
   const result = await containerStatus(entry.status.containerId, token);
-  if (result.status_code === 'PUBLISHED') await finishPublished();
+  if (result.status_code === 'PUBLISHED') await finishPublished(entry.status.mediaId);
   else throw new Error('Publish result is uncertain. Check Instagram manually before retrying; this job will not post a duplicate.');
 } else if (entry.status.phase === 'container_created') {
   const current = await waitUntilReady(entry.status.containerId);
-  if (current === 'PUBLISHED') await finishPublished();
+  if (current === 'PUBLISHED') await finishPublished(entry.status.mediaId);
   else {
     persist({ ...baseStatus(), phase: 'publish_requested', requestedAt: new Date().toISOString() });
     const published = await publishContainer(userId, entry.status.containerId, token);
     if (!published.id) throw new Error('Meta did not return a published media ID');
+    persist({ ...baseStatus(), phase: 'media_published', mediaId: published.id });
     await finishPublished(published.id);
   }
+} else if (entry.status.phase === 'media_published') {
+  await finishPublished(entry.status.mediaId);
 } else {
   throw new Error(`Unknown status phase: ${entry.status.phase}`);
 }

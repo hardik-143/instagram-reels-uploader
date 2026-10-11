@@ -44,3 +44,7 @@ export async function publishContainer(userId, containerId, token) {
   const body = new URLSearchParams({ creation_id: containerId });
   return jsonRequest(`${graph}/${encodeURIComponent(userId)}/media_publish`, { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body });
 }
+
+export async function publishedMedia(mediaId, token) {
+  return jsonRequest(`${graph}/${encodeURIComponent(mediaId)}?fields=id,permalink`, { headers: { Authorization: `Bearer ${token}` } });
+}

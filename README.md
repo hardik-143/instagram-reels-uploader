@@ -41,11 +41,11 @@ git commit -m "Add first Reel"
 git push
 ```
 
-Check the queue with `npm run queue`. Use `node src/publish.mjs my-first-reel --dry-run` to see the selected caption and file fingerprint without posting. You can run the publish workflow manually with an optional folder name. A normal run takes the oldest unposted folder.
+Check the queue with `npm run queue`; completed entries show `done` and their Instagram link. Use `node src/publish.mjs my-first-reel --dry-run` to see the selected caption and file fingerprint without posting. You can run the publish workflow manually with an optional folder name. A normal run takes the oldest unposted folder.
 
 ## Publishing and retries
 
-The workflow fetches only the chosen LFS object, places it on a public GitHub Release, and submits its URL to Meta. It waits for video processing before asking Meta to publish. A `status.json` file beside the video records the container and published media IDs and is committed to the default branch. The temporary release asset is deleted after confirmed publication; the original video remains in the repository.
+The workflow fetches only the chosen LFS object, places it on a public GitHub Release, and submits its URL to Meta. It waits for video processing before asking Meta to publish. A `status.json` file beside the video is committed to the default branch. Once posted, it has `phase: "published"`, `done: true`, and `postUrl` with the Instagram Reel link. The Actions run summary also shows the link. The temporary release asset is deleted after confirmed publication; the original video remains in the repository.
 
 If an upload or processing step fails before `media_publish`, the next run resumes the stored container where possible. If a request to `media_publish` has an uncertain result, the job **stops** and asks for manual review rather than risking a duplicate. Confirm the Reel in Instagram and inspect `status.json` and the Meta container before changing its phase. Never delete `status.json` merely to force a retry.
 
