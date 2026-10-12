@@ -15,6 +15,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-11 What if Diwali lasted 365 days? (`what-if-diwali-lasted-365-days`)
 - 2026-10-11 What if all 1.46 billion Indians jumped at once? (`what-if-all-indians-jumped-at-once`)
 - 2026-10-11 What if friction disappeared for 5 seconds? (`what-if-friction-disappeared-for-5-seconds`)
+- 2026-10-12 What if every mosquito on Earth vanished? (`what-if-every-mosquito-vanished`)
+- 2026-10-12 What if you counted to 1 billion out loud? (`what-if-you-counted-to-a-billion`)
 
 ## Backlog ideas
 - What if the Moon disappeared for 5 seconds?
@@ -25,3 +27,6 @@ Topics already made. Don't repeat them or close variants.
 - What if humans could photosynthesise?
 - What if the internet disappeared for a day?
 - What if all 8 billion humans stood shoulder to shoulder?
+- What if you walked from Kanyakumari to Kashmir? (note: viewers may link it to a political yatra; handle carefully)
+- What if the atmosphere disappeared for 5 seconds?
+- What if all 8 billion humans lived in one giant building?
