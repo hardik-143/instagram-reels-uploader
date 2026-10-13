@@ -17,6 +17,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-11 What if friction disappeared for 5 seconds? (`what-if-friction-disappeared-for-5-seconds`)
 - 2026-10-12 What if every mosquito on Earth vanished? (`what-if-every-mosquito-vanished`)
 - 2026-10-12 What if you counted to 1 billion out loud? (`what-if-you-counted-to-a-billion`)
+- 2026-10-13 What if all 8 billion humans lived in one building? (`what-if-all-humans-lived-in-one-building`)
+- 2026-10-13 What if you caught a shooting star? Orionids / Halley's Comet (`what-if-you-caught-a-shooting-star`)
 
 ## Backlog ideas
 - What if the Moon disappeared for 5 seconds?
@@ -29,4 +31,5 @@ Topics already made. Don't repeat them or close variants.
 - What if all 8 billion humans stood shoulder to shoulder?
 - What if you walked from Kanyakumari to Kashmir? (note: viewers may link it to a political yatra; handle carefully)
 - What if the atmosphere disappeared for 5 seconds?
-- What if all 8 billion humans lived in one giant building?
+- What if Earth were the size of Jupiter?
+- What if electrons disappeared for 5 seconds? (hard to animate with current library)
