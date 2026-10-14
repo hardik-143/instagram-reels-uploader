@@ -19,9 +19,10 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-12 What if you counted to 1 billion out loud? (`what-if-you-counted-to-a-billion`)
 - 2026-10-13 What if all 8 billion humans lived in one building? (`what-if-all-humans-lived-in-one-building`)
 - 2026-10-13 What if you caught a shooting star? Orionids / Halley's Comet (`what-if-you-caught-a-shooting-star`)
+- 2026-10-14 What if the atmosphere disappeared for 5 seconds? (`what-if-the-atmosphere-disappeared-for-5-seconds`)
+- 2026-10-14 What if the Moon disappeared for 5 seconds? (`what-if-the-moon-disappeared-for-5-seconds`)
 
 ## Backlog ideas
-- What if the Moon disappeared for 5 seconds?
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
 - What if Earth had rings like Saturn?
@@ -30,6 +31,8 @@ Topics already made. Don't repeat them or close variants.
 - What if the internet disappeared for a day?
 - What if all 8 billion humans stood shoulder to shoulder?
 - What if you walked from Kanyakumari to Kashmir? (note: viewers may link it to a political yatra; handle carefully)
-- What if the atmosphere disappeared for 5 seconds?
 - What if Earth were the size of Jupiter?
 - What if electrons disappeared for 5 seconds? (hard to animate with current library)
+- What if oxygen disappeared for 5 seconds? (close to the atmosphere Reel; space it out)
+- What if it rained for a whole year? Mawsynram/Cherrapunji angle
+- What if Earth had rings like Saturn? View from India
