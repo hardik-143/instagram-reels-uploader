@@ -21,6 +21,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-13 What if you caught a shooting star? Orionids / Halley's Comet (`what-if-you-caught-a-shooting-star`)
 - 2026-10-14 What if the atmosphere disappeared for 5 seconds? (`what-if-the-atmosphere-disappeared-for-5-seconds`)
 - 2026-10-14 What if the Moon disappeared for 5 seconds? (`what-if-the-moon-disappeared-for-5-seconds`)
+- 2026-10-15 What if your speed doubled every 2 seconds? (`what-if-your-speed-doubled-every-2-seconds`)
+- 2026-10-15 What if you dug a hole through the Earth from India? (`what-if-you-dug-a-hole-through-the-earth`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -36,3 +38,6 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen disappeared for 5 seconds? (close to the atmosphere Reel; space it out)
 - What if it rained for a whole year? Mawsynram/Cherrapunji angle
 - What if Earth had rings like Saturn? View from India
+- What if oxygen disappeared for 5 seconds? (trending on TikTok 2026-10; wait until a week+ after the atmosphere Reel)
+- What if Earth had rings like Saturn? View from India (repeat, still unmade)
+- What if electrons disappeared for 5 seconds? (14M-view outlier 2026-10; needs new visuals)
