@@ -3,5 +3,6 @@
   "captionHash": "506e05b65fc88c7137660be171fd93d3781769a84e3ffda5953af3f320c64bc0",
   "releaseAsset": "what-if-a-day-lasted-100-hours-ec6c476051f5fc96.mp4",
   "containerId": "17939134986385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-15T12:52:06.655Z"
 }
