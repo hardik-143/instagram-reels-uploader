@@ -24,6 +24,9 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-15 What if your speed doubled every 2 seconds? (`what-if-your-speed-doubled-every-2-seconds`)
 - 2026-10-15 What if you dug a hole through the Earth from India? (`what-if-you-dug-a-hole-through-the-earth`)
 
+- 2026-10-16 What if blue whales vanished forever? Krill crash / whale poop (`what-if-blue-whales-vanished-forever`)
+- 2026-10-16 What if Earth were as big as Jupiter? (`what-if-earth-were-as-big-as-jupiter`)
+
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -41,3 +44,6 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen disappeared for 5 seconds? (trending on TikTok 2026-10; wait until a week+ after the atmosphere Reel)
 - What if Earth had rings like Saturn? View from India (repeat, still unmade)
 - What if electrons disappeared for 5 seconds? (14M-view outlier 2026-10; needs new visuals)
+- What if every cockroach on Earth disappeared? (790K-view TikTok outlier 2026-10; close to mosquito Reel, space it out)
+- What if a black hole headed for Earth? (3.6M-view IG outlier 2026-10; frame carefully, avoid doomsday tone)
+- What if it rained for a whole year? Mawsynram angle (scored 18 on 2026-10-16)
