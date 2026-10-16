@@ -3,5 +3,6 @@
   "captionHash": "ce900817b6973d36bf1ecdf35c41f1f836748f05b4f9a5538f7c5298fdc3b3ce",
   "releaseAsset": "what-if-friction-disappeared-for-5-seconds-f8a292a5c8fc8817.mp4",
   "containerId": "17939299404385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-16T12:50:50.849Z"
 }
