@@ -43,7 +43,7 @@ Sounds added automatically: a boom and pops in the intro, a whoosh at each scene
 
 ## Library
 
-Characters: `dog cat cow pigeon mosquito sun flower penguin fish worm earth bat hockey football cloud heart whale uncle kid samosa trex trike diya ladoo moon auto train rocket chai`. Special states: `uncle` takes `"angry"` or `"hat"`, `kid` takes `"puff"`, `sun` takes `0` (switched off), `earth` takes a spin offset, and the reel animals take `"wink"`.
+Characters: `dog cat cow pigeon mosquito sun flower penguin fish worm earth bat hockey football cloud heart whale uncle kid samosa trex trike diya ladoo moon auto train rocket chai`. Special states: `uncle` takes `"angry"`, `"hat"`, `"crown"` or `"crown_angry"` (a king), `kid` takes `"puff"`, `sun` takes `0` (switched off), `earth` takes a spin offset, and the reel animals take `"wink"`.
 
 Backgrounds: `intro outro dog cat cow pigeon mosquito twist space day night week year deep sea1721 stadium gully living speed storm ocean pole pool sea cinema diwali sweetshop smog train cretaceous digsite office hot bedroom`. Add new ones in `engine.build_bg`.
 
