@@ -3,5 +3,6 @@
   "captionHash": "7ad536315259aaab2ffc8707850429ab2894b0127ba019861c30f60590d1471d",
   "releaseAsset": "what-if-you-counted-to-a-billion-93c50440aba1e29d.mp4",
   "containerId": "17939470401385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-17T12:45:02.964Z"
 }
