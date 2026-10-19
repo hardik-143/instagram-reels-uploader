@@ -30,6 +30,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-17 What if you lived 1 year in the wettest place on Earth? Mawsynram (`what-if-you-lived-in-the-wettest-place-on-earth`)
 - 2026-10-18 What if you jumped on other worlds? Moon, Mars, Venus, Jupiter, Pluto, comet 67P twist (`what-if-you-jumped-on-other-worlds`)
 - 2026-10-18 What if the dinosaur asteroid missed? Rajasaurus / birds-are-dinosaurs twist (`what-if-the-dinosaur-asteroid-missed`)
+- 2026-10-19 What if Betelgeuse exploded tonight? Ardra / half-Moon supernova / Taj Mahal light twist (`what-if-betelgeuse-exploded-tonight`)
+- 2026-10-19 What if you fell into a black hole? Spaghettification / Chandrasekhar / Earth-as-black-hole ladoo twist (`what-if-you-fell-into-a-black-hole`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -57,3 +59,6 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen disappeared for 5 seconds? (741K-view TikTok outlier 2026-10-18; scored 20, still held: atmosphere Reel posts ~2026-10-19)
 - What if every cockroach on Earth disappeared? (scored 19 on 2026-10-18; held: blue-whale vanish Reel posts ~2026-10-21)
 - What if electrons disappeared for 5 seconds? (15.3M-view TikTok outlier 2026-10-18; scored 17, needs new visuals and facts are mostly speculative)
+- What if humans could photosynthesise? (scored 17 on 2026-10-19)
+- What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-19)
+- What if oxygen disappeared for 5 seconds? (still trending on TikTok 2026-10-19; held: atmosphere Reel posts ~2026-10-19, new Reels post ~5 days after queueing)
