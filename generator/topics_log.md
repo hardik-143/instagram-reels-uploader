@@ -32,6 +32,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-18 What if the dinosaur asteroid missed? Rajasaurus / birds-are-dinosaurs twist (`what-if-the-dinosaur-asteroid-missed`)
 - 2026-10-19 What if Betelgeuse exploded tonight? Ardra / half-Moon supernova / Taj Mahal light twist (`what-if-betelgeuse-exploded-tonight`)
 - 2026-10-19 What if you fell into a black hole? Spaghettification / Chandrasekhar / Earth-as-black-hole ladoo twist (`what-if-you-fell-into-a-black-hole`)
+- 2026-10-20 What if your reflexes were 10x faster? Phone catch / 150 km/h bouncer / auto / false-start twist (`what-if-your-reaction-time-was-10x-faster`)
+- 2026-10-20 What if the oceans disappeared for 5 seconds? 97% of water / Challenger Deep / Marine Drive / plankton oxygen (`what-if-the-oceans-disappeared-for-5-seconds`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -62,3 +64,7 @@ Topics already made. Don't repeat them or close variants.
 - What if humans could photosynthesise? (scored 17 on 2026-10-19)
 - What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-19)
 - What if oxygen disappeared for 5 seconds? (still trending on TikTok 2026-10-19; held: atmosphere Reel posts ~2026-10-19, new Reels post ~5 days after queueing)
+- What if you could stop time? (578K-view TikTok outlier 2026-10-20; scored 20, mostly thought-experiment facts)
+- What if every cockroach on Earth disappeared? (scored 18 on 2026-10-20; needs a new cockroach character)
+- What if Earth had rings like Saturn? View from India (scored 17 on 2026-10-20)
+- Note 2026-10-20: oceans Reel is the 3rd "...for 5 seconds" Reel in ~10 days; hold oxygen/electrons 5-sec ideas until it has posted (~2026-10-25)
