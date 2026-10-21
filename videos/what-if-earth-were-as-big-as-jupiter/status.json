@@ -3,5 +3,6 @@
   "captionHash": "ecc247f556261883b43138364ec2aa4c303032446e1d6c4ad5fc9366a11297d6",
   "releaseAsset": "what-if-earth-were-as-big-as-jupiter-f1326d7f71297b0c.mp4",
   "containerId": "17940194745385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-21T12:52:36.369Z"
 }
