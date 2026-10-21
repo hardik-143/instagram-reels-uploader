@@ -3,5 +3,6 @@
   "captionHash": "e36e58ae3828e6d71c1caa01d3cd8034d65ab34c8e19daa1e2556c80aa096d88",
   "releaseAsset": "what-if-blue-whales-vanished-forever-170f5fed73d4d06a.mp4",
   "containerId": "17940139119385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-21T04:46:23.072Z"
 }
