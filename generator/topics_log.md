@@ -34,6 +34,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-19 What if you fell into a black hole? Spaghettification / Chandrasekhar / Earth-as-black-hole ladoo twist (`what-if-you-fell-into-a-black-hole`)
 - 2026-10-20 What if your reflexes were 10x faster? Phone catch / 150 km/h bouncer / auto / false-start twist (`what-if-your-reaction-time-was-10x-faster`)
 - 2026-10-20 What if the oceans disappeared for 5 seconds? 97% of water / Challenger Deep / Marine Drive / plankton oxygen (`what-if-the-oceans-disappeared-for-5-seconds`)
+- 2026-10-21 What if every cockroach vanished? 4,600 species / 4 pests / nitrogen / wasps / termites-are-cockroaches twist (`what-if-every-cockroach-vanished`)
+- 2026-10-21 What if a spoonful of neutron star hit Earth? Sugar cube = 1 billion tonnes / 700 spins a sec / kilonova gold, Dhanteras twist (`what-if-a-spoonful-of-neutron-star-hit-earth`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -68,3 +70,6 @@ Topics already made. Don't repeat them or close variants.
 - What if every cockroach on Earth disappeared? (scored 18 on 2026-10-20; needs a new cockroach character)
 - What if Earth had rings like Saturn? View from India (scored 17 on 2026-10-20)
 - Note 2026-10-20: oceans Reel is the 3rd "...for 5 seconds" Reel in ~10 days; hold oxygen/electrons 5-sec ideas until it has posted (~2026-10-25)
+- What if you fell into Jupiter? (45M-view IG outlier 2026-10-21; scored 20, held: black-hole fall + Earth-as-Jupiter Reels still queued)
+- What if you cut a paper in half 103 times? (5.3M-view TikTok outlier 2026-10-21; scored 19, 3rd exponential idea after rice + speed-doubling)
+- What if Earth hit absolute zero for 5 seconds? (2.4M-view TikTok outlier 2026-10-21; scored 18, held under the 5-sec spacing note)
