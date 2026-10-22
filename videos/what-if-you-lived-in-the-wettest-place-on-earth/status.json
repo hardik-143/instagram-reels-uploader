@@ -3,5 +3,6 @@
   "captionHash": "ba78f94cace6bddc63fb5eda176a50ad2a7c246298fc2c671c3f889dad739b6a",
   "releaseAsset": "what-if-you-lived-in-the-wettest-place-on-earth-5a00946159eec50d.mp4",
   "containerId": "17940343047385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-22T12:52:55.327Z"
 }
