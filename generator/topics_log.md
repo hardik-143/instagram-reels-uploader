@@ -36,6 +36,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-20 What if the oceans disappeared for 5 seconds? 97% of water / Challenger Deep / Marine Drive / plankton oxygen (`what-if-the-oceans-disappeared-for-5-seconds`)
 - 2026-10-21 What if every cockroach vanished? 4,600 species / 4 pests / nitrogen / wasps / termites-are-cockroaches twist (`what-if-every-cockroach-vanished`)
 - 2026-10-21 What if a spoonful of neutron star hit Earth? Sugar cube = 1 billion tonnes / 700 spins a sec / kilonova gold, Dhanteras twist (`what-if-a-spoonful-of-neutron-star-hit-earth`)
+- 2026-10-22 What if you were a tardigrade? Himalaya moss / tun / 30 years frozen / 5,000 Gy / 10 days in space / 37 °C twist (`what-if-you-were-a-tardigrade`)
+- 2026-10-22 What if you could stop time? Darkness / silence / air wall / GPS 38 microseconds a day / 10 km map drift twist (`what-if-you-could-stop-time`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -73,3 +75,6 @@ Topics already made. Don't repeat them or close variants.
 - What if you fell into Jupiter? (45M-view IG outlier 2026-10-21; scored 20, held: black-hole fall + Earth-as-Jupiter Reels still queued)
 - What if you cut a paper in half 103 times? (5.3M-view TikTok outlier 2026-10-21; scored 19, 3rd exponential idea after rice + speed-doubling)
 - What if Earth hit absolute zero for 5 seconds? (2.4M-view TikTok outlier 2026-10-21; scored 18, held under the 5-sec spacing note)
+- What if your punch got 2x stronger every second? (1.6M-view IG outlier 2026-10-22; scored 16, 3rd exponential idea after rice + speed-doubling)
+- What if an unstoppable force hit an immovable object? (4.9M-view Hindi IG 'indestructible sword paradox' outlier 2026-10-22; scored 18, facts are mostly logic puzzle)
+- What if we nuked the Sun? (789K-view TikTok outlier 2026-10-22; scored 18, skipped for weapons theme; could reframe as 'what if we threw X into the Sun')
