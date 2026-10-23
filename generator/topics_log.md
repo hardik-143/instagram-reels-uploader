@@ -38,6 +38,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-21 What if a spoonful of neutron star hit Earth? Sugar cube = 1 billion tonnes / 700 spins a sec / kilonova gold, Dhanteras twist (`what-if-a-spoonful-of-neutron-star-hit-earth`)
 - 2026-10-22 What if you were a tardigrade? Himalaya moss / tun / 30 years frozen / 5,000 Gy / 10 days in space / 37 °C twist (`what-if-you-were-a-tardigrade`)
 - 2026-10-22 What if you could stop time? Darkness / silence / air wall / GPS 38 microseconds a day / 10 km map drift twist (`what-if-you-could-stop-time`)
+- 2026-10-23 What if you jumped into a pool of mercury? 13.5x water / 135 kg bucket / 7% sinks / iron + silver float / gold sinks + amalgam twist / toxic-vapour safety line (`what-if-you-jumped-into-a-pool-of-mercury`)
+- 2026-10-23 What if you climbed the real top of the world? Everest 8,849 m / 21 km equatorial bulge / Chimborazo 2 km farther from centre / 0.5% lighter at equator / Mauna Kea base-to-peak twist (`what-if-you-climbed-the-real-top-of-the-world`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -78,3 +80,6 @@ Topics already made. Don't repeat them or close variants.
 - What if your punch got 2x stronger every second? (1.6M-view IG outlier 2026-10-22; scored 16, 3rd exponential idea after rice + speed-doubling)
 - What if an unstoppable force hit an immovable object? (4.9M-view Hindi IG 'indestructible sword paradox' outlier 2026-10-22; scored 18, facts are mostly logic puzzle)
 - What if we nuked the Sun? (789K-view TikTok outlier 2026-10-22; scored 18, skipped for weapons theme; could reframe as 'what if we threw X into the Sun')
+- What if oxygen disappeared for 5 seconds? (812K-view TikTok outlier 2026-10-23, 19.7x median; scored 21, still held under the 5-sec spacing note until the oceans Reel posts ~2026-10-25)
+- What if you fell into Jupiter? (scored 20 on 2026-10-23; held: black-hole fall Reel still queued)
+- What if you folded paper 103 times? (947K-view Hindi TikTok paper-folding outlier 2026-10-23; scored 18, 3rd exponential idea)
