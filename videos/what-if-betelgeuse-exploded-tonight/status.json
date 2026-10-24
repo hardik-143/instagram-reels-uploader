@@ -3,5 +3,6 @@
   "captionHash": "53ac70241d626756bf40fa39334162ee9b027e617ddbdf6b390c7433e3b83d22",
   "releaseAsset": "what-if-betelgeuse-exploded-tonight-7c33dd6b4d43c230.mp4",
   "containerId": "17940616926385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-24T04:43:58.973Z"
 }
