@@ -40,6 +40,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-22 What if you could stop time? Darkness / silence / air wall / GPS 38 microseconds a day / 10 km map drift twist (`what-if-you-could-stop-time`)
 - 2026-10-23 What if you jumped into a pool of mercury? 13.5x water / 135 kg bucket / 7% sinks / iron + silver float / gold sinks + amalgam twist / toxic-vapour safety line (`what-if-you-jumped-into-a-pool-of-mercury`)
 - 2026-10-23 What if you climbed the real top of the world? Everest 8,849 m / 21 km equatorial bulge / Chimborazo 2 km farther from centre / 0.5% lighter at equator / Mauna Kea base-to-peak twist (`what-if-you-climbed-the-real-top-of-the-world`)
+- 2026-10-24 What if you fell into Jupiter? 200,000 km/h arrival / no ground / 2.5 g / 650 km/h winds / Great Red Spot / Galileo probe 58 min / metallic hydrogen / 24,000 °C core / Guru-Guruvar / Galileo crashed to protect Europa twist (`what-if-you-fell-into-jupiter`)
+- 2026-10-24 What if you were a bat for a day? Halloween week: only flying mammal / hang lock / echolocation / not blind / 135 Indian species / flying fox 1.5 m / seeds / 3 vampire species / false vampire bat twist / never-touch safety line (`what-if-you-were-a-bat-for-a-day`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -83,3 +85,6 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen disappeared for 5 seconds? (812K-view TikTok outlier 2026-10-23, 19.7x median; scored 21, still held under the 5-sec spacing note until the oceans Reel posts ~2026-10-25)
 - What if you fell into Jupiter? (scored 20 on 2026-10-23; held: black-hole fall Reel still queued)
 - What if you folded paper 103 times? (947K-view Hindi TikTok paper-folding outlier 2026-10-23; scored 18, 3rd exponential idea)
+- What if oxygen disappeared for 5 seconds? (841K-view TikTok outlier 2026-10-24; scored 21, held one more day: oceans Reel still unposted, posts ~2026-10-25; make it on the next run)
+- What if you swam in Lake Natron? (1.9M-view Hindi IG 'scariest lake' outlier 2026-10-24; scored 20; flamingo twist, needs a flamingo character)
+- What if you built a mini Sun on Earth? Fusion / 150 million °C (1.5M-view Hindi IG arc-reactor outlier 2026-10-24; scored 18; avoid the Marvel character)
