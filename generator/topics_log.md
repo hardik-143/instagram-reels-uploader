@@ -42,6 +42,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-23 What if you climbed the real top of the world? Everest 8,849 m / 21 km equatorial bulge / Chimborazo 2 km farther from centre / 0.5% lighter at equator / Mauna Kea base-to-peak twist (`what-if-you-climbed-the-real-top-of-the-world`)
 - 2026-10-24 What if you fell into Jupiter? 200,000 km/h arrival / no ground / 2.5 g / 650 km/h winds / Great Red Spot / Galileo probe 58 min / metallic hydrogen / 24,000 °C core / Guru-Guruvar / Galileo crashed to protect Europa twist (`what-if-you-fell-into-jupiter`)
 - 2026-10-24 What if you were a bat for a day? Halloween week: only flying mammal / hang lock / echolocation / not blind / 135 Indian species / flying fox 1.5 m / seeds / 3 vampire species / false vampire bat twist / never-touch safety line (`what-if-you-were-a-bat-for-a-day`)
+- 2026-10-25 What if all oxygen vanished for 5 seconds? 21% of air / ears pop ~2 km / diyas + stoves out / engines stall / rockets carry LOX (ISRO CE20) / 1-2 breaths can faint, hold breath / body 65% oxygen twist (`what-if-all-oxygen-vanished-for-5-seconds`)
+- 2026-10-25 What if you chased the hottest temperature ever? Phalodi 51 °C / chai 100 / lava 1,200 / Sun surface 5,500 / lightning 30,000 / Sun core 15M / ITER 150M / LHC 5 trillion / magnets colder than space twist (`what-if-you-chased-the-hottest-temperature-ever`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -88,3 +90,7 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen disappeared for 5 seconds? (841K-view TikTok outlier 2026-10-24; scored 21, held one more day: oceans Reel still unposted, posts ~2026-10-25; make it on the next run)
 - What if you swam in Lake Natron? (1.9M-view Hindi IG 'scariest lake' outlier 2026-10-24; scored 20; flamingo twist, needs a flamingo character)
 - What if you built a mini Sun on Earth? Fusion / 150 million °C (1.5M-view Hindi IG arc-reactor outlier 2026-10-24; scored 18; avoid the Marvel character)
+- What if you swam in Lake Natron? (scored 19 on 2026-10-25; still needs a flamingo character)
+- What if a bird/snake sat on a power line? Potential difference (1.4M-view Hindi IG outlier 2026-10-23, 64x median; scored 17, needs a strong never-touch-wires safety line)
+- What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-25)
+- Note 2026-10-25: 'every human took a deep breath at once' (1.5M TikTok) and 'oxygen doubled' (568K TikTok) are trending; too close to the oxygen Reel, space them out
