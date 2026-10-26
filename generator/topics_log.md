@@ -44,6 +44,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-24 What if you were a bat for a day? Halloween week: only flying mammal / hang lock / echolocation / not blind / 135 Indian species / flying fox 1.5 m / seeds / 3 vampire species / false vampire bat twist / never-touch safety line (`what-if-you-were-a-bat-for-a-day`)
 - 2026-10-25 What if all oxygen vanished for 5 seconds? 21% of air / ears pop ~2 km / diyas + stoves out / engines stall / rockets carry LOX (ISRO CE20) / 1-2 breaths can faint, hold breath / body 65% oxygen twist (`what-if-all-oxygen-vanished-for-5-seconds`)
 - 2026-10-25 What if you chased the hottest temperature ever? Phalodi 51 °C / chai 100 / lava 1,200 / Sun surface 5,500 / lightning 30,000 / Sun core 15M / ITER 150M / LHC 5 trillion / magnets colder than space twist (`what-if-you-chased-the-hottest-temperature-ever`)
+- 2026-10-26 What if you folded paper 103 times? 0.1 mm / 7 folds 1.3 cm / 17 folds 13 m / 20 folds > Qutub Minar / 27 folds > Everest / 41 halfway + 42 past the Moon / 51 past the Sun / 83 across the Milky Way / 103 > observable universe / 12-fold record twist (`what-if-you-folded-paper-103-times`)
+- 2026-10-26 What if you were a bird on a power line? 11 kV street wires / same voltage, no current / 230 V home 48x / two wires or pole = current / 130+ vultures+eagles on 4 km near Dehradun / insulated wires fix / 765 kV / bare-hand linemen twist / kite + manja never-touch safety line (`what-if-you-were-a-bird-on-a-power-line`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -94,3 +96,6 @@ Topics already made. Don't repeat them or close variants.
 - What if a bird/snake sat on a power line? Potential difference (1.4M-view Hindi IG outlier 2026-10-23, 64x median; scored 17, needs a strong never-touch-wires safety line)
 - What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-25)
 - Note 2026-10-25: 'every human took a deep breath at once' (1.5M TikTok) and 'oxygen doubled' (568K TikTok) are trending; too close to the oxygen Reel, space them out
+- What if you shrank to the size of an ant? (1.2M-view IG '1 elephant vs 1 million fire ants' outlier, 307x median, 2026-10-15; scored 19 on 2026-10-26; needs an ant character)
+- What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-26)
+- What if you visited the weirdest weather in space? Glass rain on HD 189733b / diamond rain on Neptune (scored 18 on 2026-10-26; close to the jump-on-worlds and Jupiter Reels, space it out)
