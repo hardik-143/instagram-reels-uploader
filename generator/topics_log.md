@@ -46,6 +46,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-25 What if you chased the hottest temperature ever? Phalodi 51 °C / chai 100 / lava 1,200 / Sun surface 5,500 / lightning 30,000 / Sun core 15M / ITER 150M / LHC 5 trillion / magnets colder than space twist (`what-if-you-chased-the-hottest-temperature-ever`)
 - 2026-10-26 What if you folded paper 103 times? 0.1 mm / 7 folds 1.3 cm / 17 folds 13 m / 20 folds > Qutub Minar / 27 folds > Everest / 41 halfway + 42 past the Moon / 51 past the Sun / 83 across the Milky Way / 103 > observable universe / 12-fold record twist (`what-if-you-folded-paper-103-times`)
 - 2026-10-26 What if you were a bird on a power line? 11 kV street wires / same voltage, no current / 230 V home 48x / two wires or pole = current / 130+ vultures+eagles on 4 km near Dehradun / insulated wires fix / 765 kV / bare-hand linemen twist / kite + manja never-touch safety line (`what-if-you-were-a-bird-on-a-power-line`)
+- 2026-10-27 What if you shrank to the size of an ant? 5 mm / falling ant ~6 km/h / raindrop 50x a mosquito / surface-tension trap / 10-50x body weight / 20 quadrillion ants, 2.5M per human / outweigh wild birds + mammals / Similipal kai chutney GI-tag twist (`what-if-you-shrank-to-ant-size`)
+- 2026-10-27 What if you lived on the ISS for a day? 400 km / 28,000 km/h / 90-min orbit / 16 sunrises / ~90% gravity, free fall / chai blobs + pouch / 3% taller / 98% water recycling / round blue flames, Diwali / fake 'Diwali from space' photo twist (`what-if-you-lived-on-the-iss-for-a-day`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -99,3 +101,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you shrank to the size of an ant? (1.2M-view IG '1 elephant vs 1 million fire ants' outlier, 307x median, 2026-10-15; scored 19 on 2026-10-26; needs an ant character)
 - What if Earth had rings like Saturn? View from India (scored 16 on 2026-10-26)
 - What if you visited the weirdest weather in space? Glass rain on HD 189733b / diamond rain on Neptune (scored 18 on 2026-10-26; close to the jump-on-worlds and Jupiter Reels, space it out)
+- What if gravity doubled for a day? (1.9M-view Hindi IG 'what is gravity' outlier 2026-10-22; scored 19 on 2026-10-27; close to jump-on-worlds + Mumbai-local gravity Reels)
+- What if you built a mini Sun on Earth? Fusion (arc-reactor outlier still 1.6M; scored 18 on 2026-10-27; ITER 150M °C already used in the hottest-temperature Reel)
+- What if Earth had rings like Saturn? View from India (scored 17 on 2026-10-27)
+- Note 2026-10-27: 'what if you got 2x smaller every 2 seconds' (820K TikTok) is trending; too close to the ant-size Reel, space it out
