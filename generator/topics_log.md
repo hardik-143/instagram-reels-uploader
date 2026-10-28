@@ -48,6 +48,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-26 What if you were a bird on a power line? 11 kV street wires / same voltage, no current / 230 V home 48x / two wires or pole = current / 130+ vultures+eagles on 4 km near Dehradun / insulated wires fix / 765 kV / bare-hand linemen twist / kite + manja never-touch safety line (`what-if-you-were-a-bird-on-a-power-line`)
 - 2026-10-27 What if you shrank to the size of an ant? 5 mm / falling ant ~6 km/h / raindrop 50x a mosquito / surface-tension trap / 10-50x body weight / 20 quadrillion ants, 2.5M per human / outweigh wild birds + mammals / Similipal kai chutney GI-tag twist (`what-if-you-shrank-to-ant-size`)
 - 2026-10-27 What if you lived on the ISS for a day? 400 km / 28,000 km/h / 90-min orbit / 16 sunrises / ~90% gravity, free fall / chai blobs + pouch / 3% taller / 98% water recycling / round blue flames, Diwali / fake 'Diwali from space' photo twist (`what-if-you-lived-on-the-iss-for-a-day`)
+- 2026-10-28 What if your voice kept getting louder? Decibel ladder: whisper 30 / talk 60, +10 dB ~2x / traffic 85 (8 h) / siren 110 (2 min) / India cracker limit 125 dB at 4 m / jet 140 / Krakatoa 172 dB at 160 km, heard 4,800 km, wave circled Earth ~7x / ~194 dB air ceiling = shockwave twist / Diwali safe-distance line (`what-if-your-voice-kept-getting-louder`)
+- 2026-10-28 What if you swam in Lake Natron? Tanzania / red microbes / pH 10+ burns / 40-60 °C / natron = Egyptian mummies / 2.5M lesser flamingos, 75% born here / salt-island nursery / photographer posed the 'stone' birds twist / Mumbai + Gujarat flamingos (`what-if-you-swam-in-lake-natron`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -105,3 +107,6 @@ Topics already made. Don't repeat them or close variants.
 - What if you built a mini Sun on Earth? Fusion (arc-reactor outlier still 1.6M; scored 18 on 2026-10-27; ITER 150M °C already used in the hottest-temperature Reel)
 - What if Earth had rings like Saturn? View from India (scored 17 on 2026-10-27)
 - Note 2026-10-27: 'what if you got 2x smaller every 2 seconds' (820K TikTok) is trending; too close to the ant-size Reel, space it out
+- What if oxygen doubled? (573K-view TikTok outlier, 30x median, 2026-10-15; scored 20 on 2026-10-28, held: oxygen-vanish Reel made 2026-10-25)
+- What if you were a chipkali (house gecko) for a day? Setae / walk on ceilings / tail drop (839K TikTok gecko-upgrades outlier 2026-10-25; scored 20 on 2026-10-28; needs a gecko character)
+- What if you met a giant squid? Beaks in sperm-whale stomachs / biggest eyes (741K TikTok outlier, 237x, 2026-10-15; scored 18 on 2026-10-28; weak Indian angle, needs a squid character)
