@@ -3,5 +3,6 @@
   "captionHash": "98ee60cdb853627941719dcd549f9c5111a5b9951a4d636bc93ea7d3767c00ac",
   "releaseAsset": "what-if-you-fell-into-jupiter-9fda5be6621083e9.mp4",
   "containerId": "17941578456385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-29T04:38:24.367Z"
 }
