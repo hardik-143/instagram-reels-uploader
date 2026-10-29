@@ -50,6 +50,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-27 What if you lived on the ISS for a day? 400 km / 28,000 km/h / 90-min orbit / 16 sunrises / ~90% gravity, free fall / chai blobs + pouch / 3% taller / 98% water recycling / round blue flames, Diwali / fake 'Diwali from space' photo twist (`what-if-you-lived-on-the-iss-for-a-day`)
 - 2026-10-28 What if your voice kept getting louder? Decibel ladder: whisper 30 / talk 60, +10 dB ~2x / traffic 85 (8 h) / siren 110 (2 min) / India cracker limit 125 dB at 4 m / jet 140 / Krakatoa 172 dB at 160 km, heard 4,800 km, wave circled Earth ~7x / ~194 dB air ceiling = shockwave twist / Diwali safe-distance line (`what-if-your-voice-kept-getting-louder`)
 - 2026-10-28 What if you swam in Lake Natron? Tanzania / red microbes / pH 10+ burns / 40-60 °C / natron = Egyptian mummies / 2.5M lesser flamingos, 75% born here / salt-island nursery / photographer posed the 'stone' birds twist / Mumbai + Gujarat flamingos (`what-if-you-swam-in-lake-natron`)
+- 2026-10-29 What if you could clone yourself? Same DNA / born a baby, decades younger / Dolly 1996, 277 tries / memories not in DNA / identical twins, different fingerprints / Garima buffalo NDRI Karnal 2009 / India guidelines prohibit reproductive cloning / CC cloned cat different coat twist (`what-if-you-could-clone-yourself`)
+- 2026-10-29 What if you lived on Uranus? 2.9 billion km, sunlight 2 h 40 min / 98 deg tilt / no surface / -224 °C / 900 km/h winds / 42 years day + 42 years night / 84-year year, 1st birthday at 84 / hydrogen sulfide rotten-eggs twist (`what-if-you-lived-on-uranus`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -110,3 +112,7 @@ Topics already made. Don't repeat them or close variants.
 - What if oxygen doubled? (573K-view TikTok outlier, 30x median, 2026-10-15; scored 20 on 2026-10-28, held: oxygen-vanish Reel made 2026-10-25)
 - What if you were a chipkali (house gecko) for a day? Setae / walk on ceilings / tail drop (839K TikTok gecko-upgrades outlier 2026-10-25; scored 20 on 2026-10-28; needs a gecko character)
 - What if you met a giant squid? Beaks in sperm-whale stomachs / biggest eyes (741K TikTok outlier, 237x, 2026-10-15; scored 18 on 2026-10-28; weak Indian angle, needs a squid character)
+- What if you were frozen for 100 years? Wood frog vs human cells (1.2M-view IG outlier 2026-10-23, 36x median; scored 19 on 2026-10-29; close to the tardigrade Reel)
+- What if every bed bug died tonight? (809K-view IG outlier 2026-10-19; scored 16 on 2026-10-29; 4th 'vanish' animal Reel, needs a bug character)
+- What if you jumped 2x higher every jump? (841K-view IG outlier 2026-10-17; scored 17 on 2026-10-29; 4th exponential idea after rice, speed-doubling, paper folding)
+- Note 2026-10-29: 'what if your IQ was 10x higher' (548K TikTok, 572x) trends, but IQ facts are shaky; skip unless reframed
