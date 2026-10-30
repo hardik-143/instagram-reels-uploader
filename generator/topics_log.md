@@ -52,6 +52,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-28 What if you swam in Lake Natron? Tanzania / red microbes / pH 10+ burns / 40-60 °C / natron = Egyptian mummies / 2.5M lesser flamingos, 75% born here / salt-island nursery / photographer posed the 'stone' birds twist / Mumbai + Gujarat flamingos (`what-if-you-swam-in-lake-natron`)
 - 2026-10-29 What if you could clone yourself? Same DNA / born a baby, decades younger / Dolly 1996, 277 tries / memories not in DNA / identical twins, different fingerprints / Garima buffalo NDRI Karnal 2009 / India guidelines prohibit reproductive cloning / CC cloned cat different coat twist (`what-if-you-could-clone-yourself`)
 - 2026-10-29 What if you lived on Uranus? 2.9 billion km, sunlight 2 h 40 min / 98 deg tilt / no surface / -224 °C / 900 km/h winds / 42 years day + 42 years night / 84-year year, 1st birthday at 84 / hydrogen sulfide rotten-eggs twist (`what-if-you-lived-on-uranus`)
+- 2026-10-30 What if you squeezed a pencil into a diamond? Pencil lead = graphite + clay / same carbon, sheets vs grid / ~50,000x air pressure + 1,000 °C / ~200 km down, kimberlite eruptions / India only source until 1725, Golconda / ~90% cut in Surat / 1954 GE lab diamond ~100,000 atm / diamonds burn into CO2 twist (`what-if-you-squeezed-a-pencil-into-a-diamond`)
+- 2026-10-30 What if you could walk through walls? Atoms mostly empty / stadium nucleus = mustard seed / electrons push back / all humans = sugar cube / quantum tunnelling, Sun / phone flash memory / whole-human odds / 100 trillion neutrinos per second twist (`what-if-you-could-walk-through-walls`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -116,3 +118,6 @@ Topics already made. Don't repeat them or close variants.
 - What if every bed bug died tonight? (809K-view IG outlier 2026-10-19; scored 16 on 2026-10-29; 4th 'vanish' animal Reel, needs a bug character)
 - What if you jumped 2x higher every jump? (841K-view IG outlier 2026-10-17; scored 17 on 2026-10-29; 4th exponential idea after rice, speed-doubling, paper folding)
 - Note 2026-10-29: 'what if your IQ was 10x higher' (548K TikTok, 572x) trends, but IQ facts are shaky; skip unless reframed
+- What if the Moon came twice as close? Tie-in with the late-Nov 2026 supermoon (scored 18 on 2026-10-30; close to the Moon-vanish and drive-to-Moon Reels)
+- What if you lived a googolplex years? (561K-view TikTok outlier, 376x median, 2026-10-26; scored 16 on 2026-10-30; facts mostly abstract maths)
+- What if you dug 2x faster every 2 seconds? (2.2M-view TikTok outlier 2026-10-23; scored 21 but skipped on 2026-10-30: close variant of the hole-through-Earth Reel and a 4th exponential idea)
