@@ -3,5 +3,6 @@
   "captionHash": "0ad4a2d98fab5ad75d84020b98bb890a53345173c773f38a572c19c009328d4a",
   "releaseAsset": "what-if-you-folded-paper-103-times-853af0f193de08a0.mp4",
   "containerId": "17941917531385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-31T04:36:54.822Z"
 }
