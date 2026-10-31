@@ -54,6 +54,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-29 What if you lived on Uranus? 2.9 billion km, sunlight 2 h 40 min / 98 deg tilt / no surface / -224 °C / 900 km/h winds / 42 years day + 42 years night / 84-year year, 1st birthday at 84 / hydrogen sulfide rotten-eggs twist (`what-if-you-lived-on-uranus`)
 - 2026-10-30 What if you squeezed a pencil into a diamond? Pencil lead = graphite + clay / same carbon, sheets vs grid / ~50,000x air pressure + 1,000 °C / ~200 km down, kimberlite eruptions / India only source until 1725, Golconda / ~90% cut in Surat / 1954 GE lab diamond ~100,000 atm / diamonds burn into CO2 twist (`what-if-you-squeezed-a-pencil-into-a-diamond`)
 - 2026-10-30 What if you could walk through walls? Atoms mostly empty / stadium nucleus = mustard seed / electrons push back / all humans = sugar cube / quantum tunnelling, Sun / phone flash memory / whole-human odds / 100 trillion neutrinos per second twist (`what-if-you-could-walk-through-walls`)
+- 2026-10-31 What if you were a chipkali for a day? Walls + ceiling / millions of setae, hundreds of tips / van der Waals / in theory 2 adults / peel toes, 15x a second / dry Teflon no grip / no eyelids, lick eyes / 50 insects a day at the tubelight / tail drop, regrows in months / Geckskin ~300 kg on glass / dal not poison but Salmonella twist (`what-if-you-were-a-chipkali-for-a-day`)
+- 2026-10-31 What if you shouted on other planets? Earth 343 m/s / Moon no sound, radio / Mars 170x thinner, 5 m too far / Mars 240 vs 250 m/s, high notes first / Venus 90x thicker, deeper voice / 470 °C, India's Venus Orbiter 2028 / space silent? / Perseus black hole B-flat 57 octaves twist (`what-if-you-shouted-on-other-planets`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -121,3 +123,6 @@ Topics already made. Don't repeat them or close variants.
 - What if the Moon came twice as close? Tie-in with the late-Nov 2026 supermoon (scored 18 on 2026-10-30; close to the Moon-vanish and drive-to-Moon Reels)
 - What if you lived a googolplex years? (561K-view TikTok outlier, 376x median, 2026-10-26; scored 16 on 2026-10-30; facts mostly abstract maths)
 - What if you dug 2x faster every 2 seconds? (2.2M-view TikTok outlier 2026-10-23; scored 21 but skipped on 2026-10-30: close variant of the hole-through-Earth Reel and a 4th exponential idea)
+- What if gravity doubled for a day? (2.1M-view Indian IG 'gravity is still a mystery' outlier 2026-10-22; scored 18 on 2026-10-31; close to jump-on-worlds + Mumbai-local gravity Reels)
+- What if you were 1,000x faster? (516K-view TikTok outlier 2026-10-17; scored 16 on 2026-10-31; close to the reaction-time Reel)
+- What if you dived into the second-deepest trench? Tonga Trench (947K-view TikTok outlier 2026-10-22; scored 15 on 2026-10-31; close to the oceans Reel, weak Indian angle)
