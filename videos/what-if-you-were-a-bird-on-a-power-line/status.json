@@ -3,5 +3,6 @@
   "captionHash": "9a6bbe91b614e34a0ab70aebd36eeeed5033b5665c37ef717139fa484a4a4179",
   "releaseAsset": "what-if-you-were-a-bird-on-a-power-line-41ba776f808aeed1.mp4",
   "containerId": "17941980519385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-10-31T12:36:47.696Z"
 }
