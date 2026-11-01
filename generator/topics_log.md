@@ -56,6 +56,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-30 What if you could walk through walls? Atoms mostly empty / stadium nucleus = mustard seed / electrons push back / all humans = sugar cube / quantum tunnelling, Sun / phone flash memory / whole-human odds / 100 trillion neutrinos per second twist (`what-if-you-could-walk-through-walls`)
 - 2026-10-31 What if you were a chipkali for a day? Walls + ceiling / millions of setae, hundreds of tips / van der Waals / in theory 2 adults / peel toes, 15x a second / dry Teflon no grip / no eyelids, lick eyes / 50 insects a day at the tubelight / tail drop, regrows in months / Geckskin ~300 kg on glass / dal not poison but Salmonella twist (`what-if-you-were-a-chipkali-for-a-day`)
 - 2026-10-31 What if you shouted on other planets? Earth 343 m/s / Moon no sound, radio / Mars 170x thinner, 5 m too far / Mars 240 vs 250 m/s, high notes first / Venus 90x thicker, deeper voice / 470 °C, India's Venus Orbiter 2028 / space silent? / Perseus black hole B-flat 57 octaves twist (`what-if-you-shouted-on-other-planets`)
+- 2026-11-01 What if you painted the Diwali sky? Diwali week: colour = metal / strontium red, electrons fall back + glow / calcium orange, sodium yellow street lamps / barium green, red + green easiest / copper blue hardest, breaks above ~1,200 °C / purple = strontium + copper / Sivakasi 85%+ / sparkler 1,000 °C bucket safety line / 1868 Guntur eclipse yellow line = helium, found on Earth 27 years later twist (`what-if-you-painted-the-diwali-sky`)
+- 2026-11-01 What if your skin worked like a lotus leaf? Rain rolls off like marbles / contact angle up to 170° / 10-20 micrometre wax-coated bumps / drop on air, 0.6% touches / self-cleaning in muddy ponds / arbi (taro) leaves ~148° / lotus-effect paint / works for water not oil, samosa-fingers twist (`what-if-your-skin-worked-like-a-lotus-leaf`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -126,3 +128,7 @@ Topics already made. Don't repeat them or close variants.
 - What if gravity doubled for a day? (2.1M-view Indian IG 'gravity is still a mystery' outlier 2026-10-22; scored 18 on 2026-10-31; close to jump-on-worlds + Mumbai-local gravity Reels)
 - What if you were 1,000x faster? (516K-view TikTok outlier 2026-10-17; scored 16 on 2026-10-31; close to the reaction-time Reel)
 - What if you dived into the second-deepest trench? Tonga Trench (947K-view TikTok outlier 2026-10-22; scored 15 on 2026-10-31; close to the oceans Reel, weak Indian angle)
+- What if it rained nonstop for a year? (3.5M-view Hindi IG outlier, 18.7x median, 2026-10-29; scored 20 on 2026-11-01; close to the Mawsynram Reel, facts mostly speculative; ground it in the atmosphere holding only ~2.5 cm of rain at once)
+- What if you poured oil on a stormy sea? Franklin's teaspoon of oil on Clapham pond, one-molecule film (1.1M-view TikTok 'storm oil' outlier, 33x, 2026-10-30; scored 18 on 2026-11-01; weak Indian angle)
+- What if you clapped 2x stronger every clap? (590K-view TikTok outlier 2026-10-20; scored 15 on 2026-11-01; another exponential idea, close to the voice-louder Reel)
+- Note 2026-11-01: 'hand in a particle accelerator beam' (741K IG) trends but the real story centres on a named living person; skip. Lotus is also a political party symbol in India: keep lotus content purely botanical, never call it 'national flower'.
