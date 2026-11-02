@@ -3,5 +3,6 @@
   "captionHash": "6ea206f86eb05f5713407a4710879180e8bfb192b9c954e64fc7baf6f125965f",
   "releaseAsset": "what-if-your-voice-kept-getting-louder-3eba0b89c740bac9.mp4",
   "containerId": "17942373015385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-02T12:38:34.187Z"
 }
