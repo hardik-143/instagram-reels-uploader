@@ -58,6 +58,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-10-31 What if you shouted on other planets? Earth 343 m/s / Moon no sound, radio / Mars 170x thinner, 5 m too far / Mars 240 vs 250 m/s, high notes first / Venus 90x thicker, deeper voice / 470 °C, India's Venus Orbiter 2028 / space silent? / Perseus black hole B-flat 57 octaves twist (`what-if-you-shouted-on-other-planets`)
 - 2026-11-01 What if you painted the Diwali sky? Diwali week: colour = metal / strontium red, electrons fall back + glow / calcium orange, sodium yellow street lamps / barium green, red + green easiest / copper blue hardest, breaks above ~1,200 °C / purple = strontium + copper / Sivakasi 85%+ / sparkler 1,000 °C bucket safety line / 1868 Guntur eclipse yellow line = helium, found on Earth 27 years later twist (`what-if-you-painted-the-diwali-sky`)
 - 2026-11-01 What if your skin worked like a lotus leaf? Rain rolls off like marbles / contact angle up to 170° / 10-20 micrometre wax-coated bumps / drop on air, 0.6% touches / self-cleaning in muddy ponds / arbi (taro) leaves ~148° / lotus-effect paint / works for water not oil, samosa-fingers twist (`what-if-your-skin-worked-like-a-lotus-leaf`)
+- 2026-11-02 What if a whale swallowed you? Humpback mouth ~3 m / throat fist-sized, ~38 cm stretched / 2021 diver engulfed ~30 s, spat out / sperm whale only 1 of ~90 species / 20 m, 3 km dives, giant squid / dark, no air, stomach acid / squid beaks -> ambergris / 'whale vomit' comes out the other end twist / protected in India, selling ambergris illegal (`what-if-a-whale-swallowed-you`)
+- 2026-11-02 What if you stacked books off a table? Harmonic overhang 1/2, 1/4, 1/6... / 4 books fully past the edge / 31 books = 2 lengths, 227 = 3, 12,367 = 5 / sum never stops / 10 lengths = ~27 crore books, ~8,000 km tall, 20x ISS / counterweight cheat: 3 books = 1 full length twist (`what-if-you-stacked-books-off-a-table`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -132,3 +134,6 @@ Topics already made. Don't repeat them or close variants.
 - What if you poured oil on a stormy sea? Franklin's teaspoon of oil on Clapham pond, one-molecule film (1.1M-view TikTok 'storm oil' outlier, 33x, 2026-10-30; scored 18 on 2026-11-01; weak Indian angle)
 - What if you clapped 2x stronger every clap? (590K-view TikTok outlier 2026-10-20; scored 15 on 2026-11-01; another exponential idea, close to the voice-louder Reel)
 - Note 2026-11-01: 'hand in a particle accelerator beam' (741K IG) trends but the real story centres on a named living person; skip. Lotus is also a political party symbol in India: keep lotus content purely botanical, never call it 'national flower'.
+- What if you travelled near light speed? Twin paradox (528K-view TikTok outlier, 21x, 2026-10-25; scored 19 on 2026-11-02)
+- What if it rained nonstop for a year? (3.6M-view Hindi IG outlier, 27.6x, 2026-10-29; scored 20 on 2026-11-02 but skipped as a close variant of the Mawsynram Reel; if made, ground it in the sky holding only ~2.5 cm of rain at once)
+- What if you slept 10x longer every night? (570K-view TikTok outlier 2026-10-30; scored 16 on 2026-11-02; another exponential idea)
