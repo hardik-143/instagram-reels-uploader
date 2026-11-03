@@ -60,6 +60,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-01 What if your skin worked like a lotus leaf? Rain rolls off like marbles / contact angle up to 170° / 10-20 micrometre wax-coated bumps / drop on air, 0.6% touches / self-cleaning in muddy ponds / arbi (taro) leaves ~148° / lotus-effect paint / works for water not oil, samosa-fingers twist (`what-if-your-skin-worked-like-a-lotus-leaf`)
 - 2026-11-02 What if a whale swallowed you? Humpback mouth ~3 m / throat fist-sized, ~38 cm stretched / 2021 diver engulfed ~30 s, spat out / sperm whale only 1 of ~90 species / 20 m, 3 km dives, giant squid / dark, no air, stomach acid / squid beaks -> ambergris / 'whale vomit' comes out the other end twist / protected in India, selling ambergris illegal (`what-if-a-whale-swallowed-you`)
 - 2026-11-02 What if you stacked books off a table? Harmonic overhang 1/2, 1/4, 1/6... / 4 books fully past the edge / 31 books = 2 lengths, 227 = 3, 12,367 = 5 / sum never stops / 10 lengths = ~27 crore books, ~8,000 km tall, 20x ISS / counterweight cheat: 3 books = 1 full length twist (`what-if-you-stacked-books-off-a-table`)
+- 2026-11-03 What if you lived in the coldest village on Earth? Oymyakon ~500 people / Jan avg -46 °C vs freezer -18 / official -67.7 °C 1933 / eyelashes, glasses, pen ink / cars run all day / permafrost, frozen raw fish / school open till ~-50 °C / Dras, Ladakh ~-60 °C 1995 / +34.6 °C summer, 100-degree swing twist (`what-if-you-lived-in-the-coldest-village`)
+- 2026-11-03 What if you travelled near light speed? 300,000 km/s, 7.5 laps / Parker probe ~690,000 km/h = 0.064% / 90% = 2.3x slower / 99% Proxima round trip 8.6 yr vs 1.2 yr, twin paradox / 99.9999% = 707 years / CERN 99.9999991%, infinite energy / muons 15 km, 660 m proof / one-way-to-the-future twist (`what-if-you-travelled-near-light-speed`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -137,3 +139,6 @@ Topics already made. Don't repeat them or close variants.
 - What if you travelled near light speed? Twin paradox (528K-view TikTok outlier, 21x, 2026-10-25; scored 19 on 2026-11-02)
 - What if it rained nonstop for a year? (3.6M-view Hindi IG outlier, 27.6x, 2026-10-29; scored 20 on 2026-11-02 but skipped as a close variant of the Mawsynram Reel; if made, ground it in the sky holding only ~2.5 cm of rain at once)
 - What if you slept 10x longer every night? (570K-view TikTok outlier 2026-10-30; scored 16 on 2026-11-02; another exponential idea)
+- What if only 2 humans were left on Earth? (3.2M-view IG outlier, 92x median, 2026-11-01; scored 19 on 2026-11-03; facts mostly speculative, reproduction angle needs care)
+- What if you slept in an igloo? Snow is mostly air / Gulmarg igloo cafe (1.3M-view TikTok igloo outlier, 154x, 2026-10-30; scored 19 on 2026-11-03; held: too close to today's coldest-village Reel, space it out)
+- What if you stood behind a jet engine? (1.7M-view TikTok Maho Beach outlier 2026-10-27; scored 15 on 2026-11-03; real incidents involve deaths, weak Indian angle, needs a never-do-this line)
