@@ -3,5 +3,6 @@
   "captionHash": "88231b09d5cf781960eaebf5c79ab4cbdef25b0f26732829cf604377b3358b7f",
   "releaseAsset": "what-if-you-lived-on-uranus-b6901d1ba288594d.mp4",
   "containerId": "17942641251385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-04T04:38:15.557Z"
 }
