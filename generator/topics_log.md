@@ -62,6 +62,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-02 What if you stacked books off a table? Harmonic overhang 1/2, 1/4, 1/6... / 4 books fully past the edge / 31 books = 2 lengths, 227 = 3, 12,367 = 5 / sum never stops / 10 lengths = ~27 crore books, ~8,000 km tall, 20x ISS / counterweight cheat: 3 books = 1 full length twist (`what-if-you-stacked-books-off-a-table`)
 - 2026-11-03 What if you lived in the coldest village on Earth? Oymyakon ~500 people / Jan avg -46 °C vs freezer -18 / official -67.7 °C 1933 / eyelashes, glasses, pen ink / cars run all day / permafrost, frozen raw fish / school open till ~-50 °C / Dras, Ladakh ~-60 °C 1995 / +34.6 °C summer, 100-degree swing twist (`what-if-you-lived-in-the-coldest-village`)
 - 2026-11-03 What if you travelled near light speed? 300,000 km/s, 7.5 laps / Parker probe ~690,000 km/h = 0.064% / 90% = 2.3x slower / 99% Proxima round trip 8.6 yr vs 1.2 yr, twin paradox / 99.9999% = 707 years / CERN 99.9999991%, infinite energy / muons 15 km, 660 m proof / one-way-to-the-future twist (`what-if-you-travelled-near-light-speed`)
+- 2026-11-05 What if Earth had rings like Saturn? Saturn 270,000 km wide, ~10 m thick / water ice, dust to house-size / rock torn apart inside Roche limit / arch across India's southern sky, near-overhead in Kanyakumari, edge-on line at equator / shadow on winter half / Saturn rings edge-on March 2025 / Earth may have had a ring 466 Myr ago twist (`what-if-earth-had-rings`)
+- 2026-11-05 What if you never got tired? Wall at ~30 km, glycogen / 240 km a day at 10 km/h / ~1 kcal per kg per km, 14,400 kcal ~ 60 samosas / ~4 million sweat glands, up to 2 L/h / persistence hunting / Delhi-Mumbai 1,400 km in ~6 days / brain still needs sleep, tiredness is a safety alarm / 150 g Amur falcon Apapang 3,100 km nonstop in 76 h twist (`what-if-you-never-got-tired`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -142,3 +144,6 @@ Topics already made. Don't repeat them or close variants.
 - What if only 2 humans were left on Earth? (3.2M-view IG outlier, 92x median, 2026-11-01; scored 19 on 2026-11-03; facts mostly speculative, reproduction angle needs care)
 - What if you slept in an igloo? Snow is mostly air / Gulmarg igloo cafe (1.3M-view TikTok igloo outlier, 154x, 2026-10-30; scored 19 on 2026-11-03; held: too close to today's coldest-village Reel, space it out)
 - What if you stood behind a jet engine? (1.7M-view TikTok Maho Beach outlier 2026-10-27; scored 15 on 2026-11-03; real incidents involve deaths, weak Indian angle, needs a never-do-this line)
+- What if the Moon were replaced by Jupiter? (909K-view Hindi IG outlier, 71x median, 2026-10-28; scored 17 on 2026-11-05; close to the Earth-as-Jupiter and fall-into-Jupiter Reels)
+- What if a giant squid grabbed a submarine? (529K-view TikTok outlier 2026-11-02; scored 16 on 2026-11-05; weak Indian angle, needs a squid character)
+- What if you slept 10x longer every night? (552K-view TikTok outlier, 257x, 2026-10-31; scored 15 on 2026-11-05; another exponential idea, sleep facts mostly speculative)
