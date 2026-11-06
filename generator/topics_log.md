@@ -64,6 +64,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-03 What if you travelled near light speed? 300,000 km/s, 7.5 laps / Parker probe ~690,000 km/h = 0.064% / 90% = 2.3x slower / 99% Proxima round trip 8.6 yr vs 1.2 yr, twin paradox / 99.9999% = 707 years / CERN 99.9999991%, infinite energy / muons 15 km, 660 m proof / one-way-to-the-future twist (`what-if-you-travelled-near-light-speed`)
 - 2026-11-05 What if Earth had rings like Saturn? Saturn 270,000 km wide, ~10 m thick / water ice, dust to house-size / rock torn apart inside Roche limit / arch across India's southern sky, near-overhead in Kanyakumari, edge-on line at equator / shadow on winter half / Saturn rings edge-on March 2025 / Earth may have had a ring 466 Myr ago twist (`what-if-earth-had-rings`)
 - 2026-11-05 What if you never got tired? Wall at ~30 km, glycogen / 240 km a day at 10 km/h / ~1 kcal per kg per km, 14,400 kcal ~ 60 samosas / ~4 million sweat glands, up to 2 L/h / persistence hunting / Delhi-Mumbai 1,400 km in ~6 days / brain still needs sleep, tiredness is a safety alarm / 150 g Amur falcon Apapang 3,100 km nonstop in 76 h twist (`what-if-you-never-got-tired`)
+- 2026-11-06 What if you could regrow like a planarian? Freshwater flatworm / cut in half = 2 worms / Morgan 1898 1/279th piece, 1-2 weeks / neoblasts up to 30% of cells / 2011 one neoblast rebuilt a worm / 2013 beheaded worms relearned faster / liver regrows in 3-4 weeks after up to 70% removed / inStem + NCBS Bengaluru / 2015 ISS flatworm came back two-headed twist (`what-if-you-could-regrow-like-a-planarian`)
+- 2026-11-06 What if you lived in a spinning space city? 1-1.5% bone loss a month / O'Neill 1974 / Island Three 32 km long, 6-8 km wide, ~6 Bandra-Worli Sea Links / 1 turn ~2 min, floor 600+ km/h / houses on the ceiling, mirrors / zero-g at the axis / Coriolis ladoo / BAS first module 2028, full 2035 / Earth equator 1,670 km/h but only ~0.3% lighter twist (`what-if-you-lived-in-a-spinning-space-city`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -147,3 +149,6 @@ Topics already made. Don't repeat them or close variants.
 - What if the Moon were replaced by Jupiter? (909K-view Hindi IG outlier, 71x median, 2026-10-28; scored 17 on 2026-11-05; close to the Earth-as-Jupiter and fall-into-Jupiter Reels)
 - What if a giant squid grabbed a submarine? (529K-view TikTok outlier 2026-11-02; scored 16 on 2026-11-05; weak Indian angle, needs a squid character)
 - What if you slept 10x longer every night? (552K-view TikTok outlier, 257x, 2026-10-31; scored 15 on 2026-11-05; another exponential idea, sleep facts mostly speculative)
+- What if salt touched a slug? Osmosis / achaar pickling (1.8M-view Hindi IG slug outlier, 171x median, 2026-11-04; scored 18 on 2026-11-06; frame as 'never salt a slug', needs a slug character)
+- What if only 2 humans were left on Earth? (now 4.6M-view IG outlier, 87x median, 2026-11-01; scored 18 on 2026-11-06; reproduction angle needs care)
+- What if you could open portals anywhere? (4.2M-view Hindi-English IG superpower outlier, 5.6x, 2026-10-31; scored 17 on 2026-11-06; facts mostly speculative)
