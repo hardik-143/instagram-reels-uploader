@@ -66,6 +66,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-05 What if you never got tired? Wall at ~30 km, glycogen / 240 km a day at 10 km/h / ~1 kcal per kg per km, 14,400 kcal ~ 60 samosas / ~4 million sweat glands, up to 2 L/h / persistence hunting / Delhi-Mumbai 1,400 km in ~6 days / brain still needs sleep, tiredness is a safety alarm / 150 g Amur falcon Apapang 3,100 km nonstop in 76 h twist (`what-if-you-never-got-tired`)
 - 2026-11-06 What if you could regrow like a planarian? Freshwater flatworm / cut in half = 2 worms / Morgan 1898 1/279th piece, 1-2 weeks / neoblasts up to 30% of cells / 2011 one neoblast rebuilt a worm / 2013 beheaded worms relearned faster / liver regrows in 3-4 weeks after up to 70% removed / inStem + NCBS Bengaluru / 2015 ISS flatworm came back two-headed twist (`what-if-you-could-regrow-like-a-planarian`)
 - 2026-11-06 What if you lived in a spinning space city? 1-1.5% bone loss a month / O'Neill 1974 / Island Three 32 km long, 6-8 km wide, ~6 Bandra-Worli Sea Links / 1 turn ~2 min, floor 600+ km/h / houses on the ceiling, mirrors / zero-g at the axis / Coriolis ladoo / BAS first module 2028, full 2035 / Earth equator 1,670 km/h but only ~0.3% lighter twist (`what-if-you-lived-in-a-spinning-space-city`)
+- 2026-11-08 What if salt touched a slug? Hidden shell / eyes on tentacle tips, regrow / skin loses water, slime / salt makes slime saltier than insides / osmosis / foamy slime, dries out in minutes, never-do-this line / achaar salt vs microbes / seawater 3.5%, kidneys can't make urine saltier than blood / sea slugs as salty as the sea twist (`what-if-salt-touched-a-slug`)
+- 2026-11-08 What if you aged backwards? Immortal jellyfish 4.5 mm / normal polyp-to-medusa life / hurt or starved -> blob -> polyp / dadaji-to-baby / transdifferentiation / polyp buds identical copies / 2009 Japan lab: rewound 4 times / 95% water, no brain or heart, still eaten / 1980s forgotten-jar discovery twist (`what-if-you-aged-backwards`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -152,3 +154,7 @@ Topics already made. Don't repeat them or close variants.
 - What if salt touched a slug? Osmosis / achaar pickling (1.8M-view Hindi IG slug outlier, 171x median, 2026-11-04; scored 18 on 2026-11-06; frame as 'never salt a slug', needs a slug character)
 - What if only 2 humans were left on Earth? (now 4.6M-view IG outlier, 87x median, 2026-11-01; scored 18 on 2026-11-06; reproduction angle needs care)
 - What if you could open portals anywhere? (4.2M-view Hindi-English IG superpower outlier, 5.6x, 2026-10-31; scored 17 on 2026-11-06; facts mostly speculative)
+- What if it rained nonstop for a year? (now 4.3M-view Hindi IG outlier, 32.9x, 2026-10-29; scored 19 on 2026-11-08, held a 3rd time as a close variant of the Mawsynram Reel)
+- What if a dead star ate its planets? Green white dwarf (737K-view Hindi IG outlier 2026-10-27; scored 17 on 2026-11-08)
+- What if only 2 humans were left on Earth? (now 4.8M-view IG outlier, 65x, 2026-11-01; scored 17 on 2026-11-08; reproduction angle needs care)
+- Note 2026-11-08: 'what if your car couldn't stop speeding up' (551K TikTok) and 'jump through the Earth' (1.4M Hindi TikTok) trend; too close to the speed-doubling and hole-through-Earth Reels
