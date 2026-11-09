@@ -3,5 +3,6 @@
   "captionHash": "09d093a9a33e11515c88959092ce1c1ff0fe753bbe381a88dfa83b4e983eeb25",
   "releaseAsset": "what-if-earth-had-rings-4a58123983fbd251.mp4",
   "containerId": "17943445239385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-09T12:39:10.681Z"
 }
