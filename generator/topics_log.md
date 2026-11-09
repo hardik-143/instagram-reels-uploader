@@ -68,6 +68,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-06 What if you lived in a spinning space city? 1-1.5% bone loss a month / O'Neill 1974 / Island Three 32 km long, 6-8 km wide, ~6 Bandra-Worli Sea Links / 1 turn ~2 min, floor 600+ km/h / houses on the ceiling, mirrors / zero-g at the axis / Coriolis ladoo / BAS first module 2028, full 2035 / Earth equator 1,670 km/h but only ~0.3% lighter twist (`what-if-you-lived-in-a-spinning-space-city`)
 - 2026-11-08 What if salt touched a slug? Hidden shell / eyes on tentacle tips, regrow / skin loses water, slime / salt makes slime saltier than insides / osmosis / foamy slime, dries out in minutes, never-do-this line / achaar salt vs microbes / seawater 3.5%, kidneys can't make urine saltier than blood / sea slugs as salty as the sea twist (`what-if-salt-touched-a-slug`)
 - 2026-11-08 What if you aged backwards? Immortal jellyfish 4.5 mm / normal polyp-to-medusa life / hurt or starved -> blob -> polyp / dadaji-to-baby / transdifferentiation / polyp buds identical copies / 2009 Japan lab: rewound 4 times / 95% water, no brain or heart, still eaten / 1980s forgotten-jar discovery twist (`what-if-you-aged-backwards`)
+- 2026-11-09 What if you could see the present? Phone 30 cm = 1 ns / brain at least 80 ms, predicts ahead / Moon 1.3 s / Sun 8 min 20 s / Mars signal 3-22 min / Dhruv Tara ~450 ly, Mughal era / Andromeda 2.5M ly, older than humans / mirror 1 m = ~7 ns younger twist (`what-if-you-could-see-the-present`)
+- 2026-11-09 What if humans could hibernate? Himalayan brown bears denning Nov-Apr / black bear heart 45 -> 8 bpm / 100 days no food, water, toilet / no bone loss, unknown how / Arctic ground squirrel -2.9 °C / ESA Mars ship 1/3 lighter, metabolism -75%, extra fat / dwarf lemurs hibernate ~7 months twist (`what-if-humans-could-hibernate`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -158,3 +160,6 @@ Topics already made. Don't repeat them or close variants.
 - What if a dead star ate its planets? Green white dwarf (737K-view Hindi IG outlier 2026-10-27; scored 17 on 2026-11-08)
 - What if only 2 humans were left on Earth? (now 4.8M-view IG outlier, 65x, 2026-11-01; scored 17 on 2026-11-08; reproduction angle needs care)
 - Note 2026-11-08: 'what if your car couldn't stop speeding up' (551K TikTok) and 'jump through the Earth' (1.4M Hindi TikTok) trend; too close to the speed-doubling and hole-through-Earth Reels
+- What if you fired Newton's cannon from Everest? Orbit speed ~7.9 km/s (1M-view Hindi IG outlier, 299x median, 2026-11-06; scored 19 on 2026-11-09; overlaps the ISS free-fall scene)
+- What if every tyre in India made one giant tyre? (3.5M-view Hindi IG outlier, 7.2x, 2026-11-03; scored 18 on 2026-11-09; vehicle and tyre-volume numbers hard to verify)
+- What if you fell into Saturn? (5.5M-view TikTok outlier, 67x, 2026-11-04; scored 16 on 2026-11-09; close variant of the fall-into-Jupiter Reel)
