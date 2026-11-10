@@ -71,6 +71,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-09 What if you could see the present? Phone 30 cm = 1 ns / brain at least 80 ms, predicts ahead / Moon 1.3 s / Sun 8 min 20 s / Mars signal 3-22 min / Dhruv Tara ~450 ly, Mughal era / Andromeda 2.5M ly, older than humans / mirror 1 m = ~7 ns younger twist (`what-if-you-could-see-the-present`)
 - 2026-11-09 What if humans could hibernate? Himalayan brown bears denning Nov-Apr / black bear heart 45 -> 8 bpm / 100 days no food, water, toilet / no bone loss, unknown how / Arctic ground squirrel -2.9 °C / ESA Mars ship 1/3 lighter, metabolism -75%, extra fat / dwarf lemurs hibernate ~7 months twist (`what-if-humans-could-hibernate`)
 
+- 2026-11-10 What if you chased the coldest temperature ever? Freezer -18 °C / dry ice -78 °C fog / Vostok -89.2 °C 1983, no penguins inland / liquid nitrogen -196 °C, TN + Karnataka 2024 smoke-biscuit ban safety line / Triton -235 °C, Voyager 2 1989 / Boomerang Nebula ~-272 °C, colder than Big Bang glow / 1995 BEC 170 nK, S. N. Bose / 2021 Bremen drop tower 38 pK / helium never freezes at normal pressure twist (`what-if-you-chased-the-coldest-temperature-ever`)
+- 2026-11-10 What if the calendar followed only the Moon? 29.5-day Moon cycle / 12 Moons = 354 vs 365 days / Diwali new moon, 20 Oct 2025 vs 8 Nov 2026 / Adhik Maas 17 May-15 Jun 2026, every ~32.5 months / delete it: -11 days a year / ~8 yrs monsoon Diwali, ~16 yrs summer Diwali / Ramadan ~33-year cycle (real) / Makar Sankranti follows the Sun, ~14 Jan / Sanskrit 'mas' = moon + month twist (`what-if-the-calendar-followed-only-the-moon`)
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -163,3 +165,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you fired Newton's cannon from Everest? Orbit speed ~7.9 km/s (1M-view Hindi IG outlier, 299x median, 2026-11-06; scored 19 on 2026-11-09; overlaps the ISS free-fall scene)
 - What if every tyre in India made one giant tyre? (3.5M-view Hindi IG outlier, 7.2x, 2026-11-03; scored 18 on 2026-11-09; vehicle and tyre-volume numbers hard to verify)
 - What if you fell into Saturn? (5.5M-view TikTok outlier, 67x, 2026-11-04; scored 16 on 2026-11-09; close variant of the fall-into-Jupiter Reel)
+- What if you poured oil on a stormy sea? Storm oil / Franklin's teaspoon (now 1.4M-view TikTok outlier, 27.8x, 2026-10-30; scored 18 on 2026-11-10; weak Indian angle)
+- What if lightning struck you? (938K-view TikTok outlier 2026-10-27; scored 19 on 2026-11-10; strong India angle via lightning deaths + Damini app, but needs careful safety framing and the hottest Reel already used the 30,000 °C fact)
+- What if every tyre in India made one giant tyre? (now 3.8M-view Hindi IG outlier, 6.7x, 2026-11-03; scored 19 on 2026-11-10; vehicle and tyre-volume numbers still hard to verify)
+- Note 2026-11-10: 'grandfather paradox' time travel (721K Hindi IG, 10x) trends; facts mostly logic, close to the light-speed Reel
