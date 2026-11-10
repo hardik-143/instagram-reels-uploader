@@ -3,5 +3,6 @@
   "captionHash": "21316ea78f2f29c43b8ea62c7bda4588b9b31b9c4ae3425b810a163d9154e57f",
   "releaseAsset": "what-if-you-never-got-tired-846028a422b15e0b.mp4",
   "containerId": "17943545955385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-10T04:37:22.028Z"
 }
