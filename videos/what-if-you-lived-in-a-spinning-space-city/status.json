@@ -3,5 +3,6 @@
   "captionHash": "bbbc32c8763528514c43d96945ddd025af0faeac499eb4ff72f2d249fa84d843",
   "releaseAsset": "what-if-you-lived-in-a-spinning-space-city-70a9d96b4574f45d.mp4",
   "containerId": "17943744462385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-11T04:37:48.041Z"
 }
