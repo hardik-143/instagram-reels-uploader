@@ -73,6 +73,9 @@ Topics already made. Don't repeat them or close variants.
 
 - 2026-11-10 What if you chased the coldest temperature ever? Freezer -18 °C / dry ice -78 °C fog / Vostok -89.2 °C 1983, no penguins inland / liquid nitrogen -196 °C, TN + Karnataka 2024 smoke-biscuit ban safety line / Triton -235 °C, Voyager 2 1989 / Boomerang Nebula ~-272 °C, colder than Big Bang glow / 1995 BEC 170 nK, S. N. Bose / 2021 Bremen drop tower 38 pK / helium never freezes at normal pressure twist (`what-if-you-chased-the-coldest-temperature-ever`)
 - 2026-11-10 What if the calendar followed only the Moon? 29.5-day Moon cycle / 12 Moons = 354 vs 365 days / Diwali new moon, 20 Oct 2025 vs 8 Nov 2026 / Adhik Maas 17 May-15 Jun 2026, every ~32.5 months / delete it: -11 days a year / ~8 yrs monsoon Diwali, ~16 yrs summer Diwali / Ramadan ~33-year cycle (real) / Makar Sankranti follows the Sun, ~14 Jan / Sanskrit 'mas' = moon + month twist (`what-if-the-calendar-followed-only-the-moon`)
+- 2026-11-11 What if lightning struck you? ~44 flashes a second / ~300 million volts, 30,000 amps / ground current hurts most, direct hits rare / ~9 in 10 survive, heart can stop, victims safe to touch, CPR / Lichtenberg fern marks fade in a day or two / India 2,558 deaths 2023 (NCRB), ~4 in 10 nature deaths / Damini app 20-40 km / thunder roars go indoors / car safe thanks to metal shell, not tyres twist (`what-if-lightning-struck-you`)
+- 2026-11-11 What if you had a newborn's body again? Children's Day week: ~300 bones -> 206 / cartilage kneecaps / skull soft spots / sharp vision only 20-30 cm / Robinson 1891, 60 newborns held a rod 10+ s, record 2 min 35 s, never-try line / 120-160 bpm / brain 1/4 adult, doubles in year one / cry with no tears until ~3-4 weeks twist (`what-if-you-had-a-newborns-body-again`)
+
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -169,3 +172,7 @@ Topics already made. Don't repeat them or close variants.
 - What if lightning struck you? (938K-view TikTok outlier 2026-10-27; scored 19 on 2026-11-10; strong India angle via lightning deaths + Damini app, but needs careful safety framing and the hottest Reel already used the 30,000 °C fact)
 - What if every tyre in India made one giant tyre? (now 3.8M-view Hindi IG outlier, 6.7x, 2026-11-03; scored 19 on 2026-11-10; vehicle and tyre-volume numbers still hard to verify)
 - Note 2026-11-10: 'grandfather paradox' time travel (721K Hindi IG, 10x) trends; facts mostly logic, close to the light-speed Reel
+- What if the Moon came twice as close? Tie-in with the late-Nov 2026 Beaver supermoon (scored 19 on 2026-11-11; held: Moon-calendar Reel still queued, close to Moon-vanish + drive-to-Moon Reels)
+- What if you fired Newton's cannon from Everest? (scored 18 on 2026-11-11; overlaps the ISS free-fall scene)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 17 on 2026-11-11; weak Indian angle)
+- Note 2026-11-11: vidIQ outlier search unavailable (out of credits); trend scores this run lean on earlier outlier notes + upcoming events
