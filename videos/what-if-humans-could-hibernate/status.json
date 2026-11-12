@@ -3,5 +3,6 @@
   "captionHash": "873f859943d98b16adfd91287713f0f48a60e4a559b013a63d86a30832d28d1e",
   "releaseAsset": "what-if-humans-could-hibernate-35b111bb157b68db.mp4",
   "containerId": "17943948771385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-12T12:39:19.438Z"
 }
