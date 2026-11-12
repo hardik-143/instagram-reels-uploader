@@ -3,5 +3,6 @@
   "captionHash": "4a6204cbb8c10cc98f62eb924d2f8083e611586761ea8bf67de9a3a8c353052e",
   "releaseAsset": "what-if-you-aged-backwards-1e242c4a05e65062.mp4",
   "containerId": "17943904041385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-12T04:37:26.011Z"
 }
