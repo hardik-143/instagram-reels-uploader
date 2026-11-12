@@ -75,6 +75,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-10 What if the calendar followed only the Moon? 29.5-day Moon cycle / 12 Moons = 354 vs 365 days / Diwali new moon, 20 Oct 2025 vs 8 Nov 2026 / Adhik Maas 17 May-15 Jun 2026, every ~32.5 months / delete it: -11 days a year / ~8 yrs monsoon Diwali, ~16 yrs summer Diwali / Ramadan ~33-year cycle (real) / Makar Sankranti follows the Sun, ~14 Jan / Sanskrit 'mas' = moon + month twist (`what-if-the-calendar-followed-only-the-moon`)
 - 2026-11-11 What if lightning struck you? ~44 flashes a second / ~300 million volts, 30,000 amps / ground current hurts most, direct hits rare / ~9 in 10 survive, heart can stop, victims safe to touch, CPR / Lichtenberg fern marks fade in a day or two / India 2,558 deaths 2023 (NCRB), ~4 in 10 nature deaths / Damini app 20-40 km / thunder roars go indoors / car safe thanks to metal shell, not tyres twist (`what-if-lightning-struck-you`)
 - 2026-11-11 What if you had a newborn's body again? Children's Day week: ~300 bones -> 206 / cartilage kneecaps / skull soft spots / sharp vision only 20-30 cm / Robinson 1891, 60 newborns held a rod 10+ s, record 2 min 35 s, never-try line / 120-160 bpm / brain 1/4 adult, doubles in year one / cry with no tears until ~3-4 weeks twist (`what-if-you-had-a-newborns-body-again`)
+- 2026-11-12 What if you fired a cannon from Everest? Newton's cannonball / 8,849 m, no air / 1 km/s falls ~42 s, lands ~42 km away / every ball drops ~5 m in the first second / Earth curves ~5 m per 8 km / 7.9 km/s (28,000+ km/h) = orbit / ISS + satellites always falling / 11.2 km/s escapes / ~84 min later the ball hits the cannon from behind twist (`what-if-you-fired-a-cannon-from-everest`)
+- 2026-11-12 What if you were an octopus for a day? 8 arms, no bones, beak / squeeze through any gap bigger than the beak / 2/3 of neurons in the arms / suckers taste by touch / colour + texture change in <0.1 s / one photoreceptor type, skin senses light / 3 hearts, copper blue blood / ink irritates eyes + smell / body heart stops when swimming, so they crawl twist (`what-if-you-were-an-octopus`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -176,3 +178,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you fired Newton's cannon from Everest? (scored 18 on 2026-11-11; overlaps the ISS free-fall scene)
 - What if you poured oil on a stormy sea? Franklin's teaspoon (scored 17 on 2026-11-11; weak Indian angle)
 - Note 2026-11-11: vidIQ outlier search unavailable (out of credits); trend scores this run lean on earlier outlier notes + upcoming events
+- What if the Moon came twice as close? Tie-in with the 24 Nov 2026 Beaver full moon (scored 19 on 2026-11-12; held again: Moon-calendar Reel still queued, close to Moon-vanish + drive-to-Moon Reels)
+- What if you slept in an igloo? Snow is mostly air / Gulmarg igloo cafe (scored 18 on 2026-11-12; held: coldest-temperature Reel still queued)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 16 on 2026-11-12; weak Indian angle)
+- Note 2026-11-12: vidIQ outlier search unavailable again (out of credits); trend scores lean on earlier outlier notes (Newton's cannon 1M Hindi IG, 299x, 2026-11-06; giant squid / cephalopod TikTok outliers 2026-10/11)
