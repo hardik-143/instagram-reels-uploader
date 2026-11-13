@@ -77,6 +77,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-11 What if you had a newborn's body again? Children's Day week: ~300 bones -> 206 / cartilage kneecaps / skull soft spots / sharp vision only 20-30 cm / Robinson 1891, 60 newborns held a rod 10+ s, record 2 min 35 s, never-try line / 120-160 bpm / brain 1/4 adult, doubles in year one / cry with no tears until ~3-4 weeks twist (`what-if-you-had-a-newborns-body-again`)
 - 2026-11-12 What if you fired a cannon from Everest? Newton's cannonball / 8,849 m, no air / 1 km/s falls ~42 s, lands ~42 km away / every ball drops ~5 m in the first second / Earth curves ~5 m per 8 km / 7.9 km/s (28,000+ km/h) = orbit / ISS + satellites always falling / 11.2 km/s escapes / ~84 min later the ball hits the cannon from behind twist (`what-if-you-fired-a-cannon-from-everest`)
 - 2026-11-12 What if you were an octopus for a day? 8 arms, no bones, beak / squeeze through any gap bigger than the beak / 2/3 of neurons in the arms / suckers taste by touch / colour + texture change in <0.1 s / one photoreceptor type, skin senses light / 3 hearts, copper blue blood / ink irritates eyes + smell / body heart stops when swimming, so they crawl twist (`what-if-you-were-an-octopus`)
+- 2026-11-13 What if you had a dog's nose? 6M vs up to 300M receptors / 10,000-100,000x / teaspoon of sugar in ~1.5 Olympic pools / 40x brain area / 12% detour to smell chamber / side-slit exhale / each nostril separate, direction / humans beat dogs on 5 of 15 fruit+flower odorants twist (`what-if-you-had-a-dogs-nose`)
+- 2026-11-13 What if India had no Himalayas? ~2,500 km wall, Everest 8,849 m / blocks Central Asian winter winds / Boos & Kuang 2010 barrier powers monsoon / glaciers feed Ganga, Yamuna, Brahmaputra / silt built Indo-Gangetic plain / India pushes north ~4-5 cm a year, nail speed / Everest summit = ~470M-year-old seafloor limestone with shell fossils twist (`what-if-india-had-no-himalayas`)
 
 ## Backlog ideas
 - What if India had no Himalayas?
@@ -182,3 +184,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you slept in an igloo? Snow is mostly air / Gulmarg igloo cafe (scored 18 on 2026-11-12; held: coldest-temperature Reel still queued)
 - What if you poured oil on a stormy sea? Franklin's teaspoon (scored 16 on 2026-11-12; weak Indian angle)
 - Note 2026-11-12: vidIQ outlier search unavailable again (out of credits); trend scores lean on earlier outlier notes (Newton's cannon 1M Hindi IG, 299x, 2026-11-06; giant squid / cephalopod TikTok outliers 2026-10/11)
+- What if humans could photosynthesise? (scored 18 on 2026-11-13; leaf-area/energy maths + sea-slug twist)
+- What if the Moon came twice as close? 24 Nov 2026 Beaver full moon (scored 18 on 2026-11-13; held again: Moon-calendar Reel still queued)
+- What if you slept in an igloo? Gulmarg igloo cafe (scored 17 on 2026-11-13; held: coldest-temperature Reel still queued)
+- Note 2026-11-13: vidIQ out of credits (0/150, resets 2026-11-29); trend scores use evergreen-format judgement + earlier outlier notes only
