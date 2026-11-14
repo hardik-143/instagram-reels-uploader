@@ -80,6 +80,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-13 What if you had a dog's nose? 6M vs up to 300M receptors / 10,000-100,000x / teaspoon of sugar in ~1.5 Olympic pools / 40x brain area / 12% detour to smell chamber / side-slit exhale / each nostril separate, direction / humans beat dogs on 5 of 15 fruit+flower odorants twist (`what-if-you-had-a-dogs-nose`)
 - 2026-11-13 What if India had no Himalayas? ~2,500 km wall, Everest 8,849 m / blocks Central Asian winter winds / Boos & Kuang 2010 barrier powers monsoon / glaciers feed Ganga, Yamuna, Brahmaputra / silt built Indo-Gangetic plain / India pushes north ~4-5 cm a year, nail speed / Everest summit = ~470M-year-old seafloor limestone with shell fossils twist (`what-if-india-had-no-himalayas`)
 
+- 2026-11-14 What if the Moon came twice as close? 24 Nov 2026 Beaver supermoon tie-in: 384,400 km / supermoon ~360,800 km, ~6% closer, ~6.5% bigger / 192,000 km = 2x wide, 4x area, ~4x brighter / tidal pull ~1/d^3 = 8x / Juhu high tides / Kepler: ~10-day orbit, ~36 Purnimas a year / 2x wider than the Sun, no ring-of-fire eclipses / Moon recedes ~3.8 cm a year, 1.4 billion years ago 18-hour days twist (`what-if-the-moon-came-twice-as-close`)
+- 2026-11-14 What if humans could photosynthesise? Green kid: chlorophyll eats red + blue / sun + water + CO2 = sugar + oxygen / India 4-7 kWh per sq m per day / 2 sq m skin, ~half sunlit / max 4.6% (C3) efficiency / ~200 kcal a day < one samosa / 2,000 kcal needs ~10 sq m, 10x10 ft room / trees spread leaves / Elysia chlorotica sea slug keeps algae chloroplasts, 9+ months without eating twist (`what-if-humans-could-photosynthesise`)
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -188,3 +190,7 @@ Topics already made. Don't repeat them or close variants.
 - What if the Moon came twice as close? 24 Nov 2026 Beaver full moon (scored 18 on 2026-11-13; held again: Moon-calendar Reel still queued)
 - What if you slept in an igloo? Gulmarg igloo cafe (scored 17 on 2026-11-13; held: coldest-temperature Reel still queued)
 - Note 2026-11-13: vidIQ out of credits (0/150, resets 2026-11-29); trend scores use evergreen-format judgement + earlier outlier notes only
+- What if you slept in an igloo? Gulmarg igloo cafe (scored 18 on 2026-11-14; held: coldest-temperature Reel still queued)
+- What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland (scored 18 on 2026-11-14; 3rd ladder format after hottest/coldest, needs a never-dare-anyone safety line)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-14; weak Indian angle)
+- Note 2026-11-14: vidIQ still out of credits (resets 2026-11-29); Moon Reel tied to the 24 Nov supermoon, posts ~17-18 Nov; Leonids peak 17-18 Nov but shooting-star Reel already made
