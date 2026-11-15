@@ -3,5 +3,6 @@
   "captionHash": "f62ae46bd9dda093ee32865982b531a9d65d79898289f2cd5de65c68eb3ed91c",
   "releaseAsset": "what-if-you-fired-a-cannon-from-everest-94c7c0ad4ab22990.mp4",
   "containerId": "17944420368385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-15T12:37:29.051Z"
 }
