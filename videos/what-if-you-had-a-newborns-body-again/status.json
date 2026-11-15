@@ -3,5 +3,6 @@
   "captionHash": "c1626ce61f970a122c2aed0203d88d348fe58e55aed171e4481f2c7060bc22af",
   "releaseAsset": "what-if-you-had-a-newborns-body-again-7f280b179bfeeb21.mp4",
   "containerId": "17944364466385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-15T04:37:30.181Z"
 }
