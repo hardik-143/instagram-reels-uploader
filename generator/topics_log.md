@@ -82,6 +82,9 @@ Topics already made. Don't repeat them or close variants.
 
 - 2026-11-14 What if the Moon came twice as close? 24 Nov 2026 Beaver supermoon tie-in: 384,400 km / supermoon ~360,800 km, ~6% closer, ~6.5% bigger / 192,000 km = 2x wide, 4x area, ~4x brighter / tidal pull ~1/d^3 = 8x / Juhu high tides / Kepler: ~10-day orbit, ~36 Purnimas a year / 2x wider than the Sun, no ring-of-fire eclipses / Moon recedes ~3.8 cm a year, 1.4 billion years ago 18-hour days twist (`what-if-the-moon-came-twice-as-close`)
 - 2026-11-14 What if humans could photosynthesise? Green kid: chlorophyll eats red + blue / sun + water + CO2 = sugar + oxygen / India 4-7 kWh per sq m per day / 2 sq m skin, ~half sunlit / max 4.6% (C3) efficiency / ~200 kcal a day < one samosa / 2,000 kcal needs ~10 sq m, 10x10 ft room / trees spread leaves / Elysia chlorotica sea slug keeps algae chloroplasts, 9+ months without eating twist (`what-if-humans-could-photosynthesise`)
+- 2026-11-15 What if you lived on Venus? Earth-sized, closest planet / 465 °C melts lead / 92x pressure = 1 km under the sea / sulfuric acid, Venera 13 127 min (1982) / spins backwards, Sun rises west / 243-day spin vs 225-day year / Shukrayaan 2028 / twist: 50 km up ~1 bar, 0-50 °C, breathable air floats (`what-if-you-lived-on-venus`)
+- 2026-11-15 What if you slept in an igloo? -45 °C Arctic night / snow up to 95% air / spiral block dome, no beams / low tunnel cold trap + raised bed / body heat keeps -7 to 16 °C inside / lamp glaze refreezes stronger / Gulmarg igloo cafe 2022, 11.4 m, 40 seats / twist: 'iglu' just means house (`what-if-you-slept-in-an-igloo`)
+
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -194,3 +197,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland (scored 18 on 2026-11-14; 3rd ladder format after hottest/coldest, needs a never-dare-anyone safety line)
 - What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-14; weak Indian angle)
 - Note 2026-11-14: vidIQ still out of credits (resets 2026-11-29); Moon Reel tied to the 24 Nov supermoon, posts ~17-18 Nov; Leonids peak 17-18 Nov but shooting-star Reel already made
+- What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland; Hornbill Festival 1-10 Dec tie-in (scored 18 on 2026-11-15; needs a never-dare-anyone safety line)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-15; weak Indian angle)
+- What if every toilet vanished for a day? World Toilet Day 19 Nov tie-in (scored 14 on 2026-11-15; gross-out risk, sanitation-policy angle can turn political)
+- Note 2026-11-15: vidIQ still out of credits (resets 2026-11-29); trend scores use earlier outlier notes (igloo 1.3M TikTok, 154x, 2026-10-30) + evergreen planet format
