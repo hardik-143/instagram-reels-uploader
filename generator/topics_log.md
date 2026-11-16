@@ -85,6 +85,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-15 What if you lived on Venus? Earth-sized, closest planet / 465 °C melts lead / 92x pressure = 1 km under the sea / sulfuric acid, Venera 13 127 min (1982) / spins backwards, Sun rises west / 243-day spin vs 225-day year / Shukrayaan 2028 / twist: 50 km up ~1 bar, 0-50 °C, breathable air floats (`what-if-you-lived-on-venus`)
 - 2026-11-15 What if you slept in an igloo? -45 °C Arctic night / snow up to 95% air / spiral block dome, no beams / low tunnel cold trap + raised bed / body heat keeps -7 to 16 °C inside / lamp glaze refreezes stronger / Gulmarg igloo cafe 2022, 11.4 m, 40 seats / twist: 'iglu' just means house (`what-if-you-slept-in-an-igloo`)
 
+- 2026-11-16 What if you lived on Mars? Mangalyaan first try 2014 / 95% CO2, <1% pressure, helmet / avg ~-60 °C, poles -128 °C / 38% gravity, 60 kg reads 23 kg / day 24 h 40 min / year 687 days, 20 = ~10 / Olympus Mons >2.5x Everest / twist: blue sunsets (Curiosity 2015) (`what-if-you-lived-on-mars`)
+- 2026-11-16 What if you walked inside a cloud? North India winter fog = cloud on the ground / IMD very dense <50 m, trains crawl / droplets ~0.02 mm, 1M per raindrop / fall ~1 cm/s / 1 km^3 cumulus ~500 t = ~100 elephants / bedroom of cloud ~25 g / twist: your winter breath is a tiny cloud (`what-if-you-walked-inside-a-cloud`)
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -201,3 +203,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-15; weak Indian angle)
 - What if every toilet vanished for a day? World Toilet Day 19 Nov tie-in (scored 14 on 2026-11-15; gross-out risk, sanitation-policy angle can turn political)
 - Note 2026-11-15: vidIQ still out of credits (resets 2026-11-29); trend scores use earlier outlier notes (igloo 1.3M TikTok, 154x, 2026-10-30) + evergreen planet format
+- What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland; Hornbill Festival 1-10 Dec tie-in (scored 18 on 2026-11-16; needs a never-dare safety line)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-16; weak Indian angle)
+- What if every toilet vanished for a day? World Toilet Day 19 Nov tie-in (scored 14 on 2026-11-16; gross-out risk, sanitation-policy angle can turn political)
+- Note 2026-11-16: vidIQ still out of credits (resets 2026-11-29); cloud Reel tied to North India dense-fog season (Down To Earth, 9 Nov 2026); Mars follows the queued Venus Reel, so planet Reels should rest for a week
