@@ -88,6 +88,8 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-16 What if you lived on Mars? Mangalyaan first try 2014 / 95% CO2, <1% pressure, helmet / avg ~-60 °C, poles -128 °C / 38% gravity, 60 kg reads 23 kg / day 24 h 40 min / year 687 days, 20 = ~10 / Olympus Mons >2.5x Everest / twist: blue sunsets (Curiosity 2015) (`what-if-you-lived-on-mars`)
 - 2026-11-16 What if you walked inside a cloud? North India winter fog = cloud on the ground / IMD very dense <50 m, trains crawl / droplets ~0.02 mm, 1M per raindrop / fall ~1 cm/s / 1 km^3 cumulus ~500 t = ~100 elephants / bedroom of cloud ~25 g / twist: your winter breath is a tiny cloud (`what-if-you-walked-inside-a-cloud`)
 ## Backlog ideas
+- 2026-11-17 What if you grew 1 cm every second? 60 cm a minute / 36 m an hour / Qutub Minar 72.5 m at 2 h / Burj Khalifa 828 m inside a day (864 m) / Everest ~10 days, 1/3 air pressure / 315 km a year vs ISS ~400 km / Moon ~1,200 years / twist: square-cube law, Galileo 1638, 2x taller = 8x heavier, 4x stronger bones (`what-if-you-grew-1cm-every-second`)
+- 2026-11-17 What if gravity stopped squashing you? 1-2 cm taller in the morning / 23 discs, water-rich gel / gravity squeezes fluid out by day, ~1 cm shorter by night / refill lying down / astronauts up to 3% (~5 cm) taller / most report back pain, shrink back in months / twist: tallest the second you get out of bed (`what-if-gravity-stopped-squashing-you`)
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
 - What if Earth had rings like Saturn?
@@ -207,3 +209,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you poured oil on a stormy sea? Franklin's teaspoon (scored 15 on 2026-11-16; weak Indian angle)
 - What if every toilet vanished for a day? World Toilet Day 19 Nov tie-in (scored 14 on 2026-11-16; gross-out risk, sanitation-policy angle can turn political)
 - Note 2026-11-16: vidIQ still out of credits (resets 2026-11-29); cloud Reel tied to North India dense-fog season (Down To Earth, 9 Nov 2026); Mars follows the queued Venus Reel, so planet Reels should rest for a week
+- What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland; Hornbill Festival 1-10 Dec tie-in (scored 18 on 2026-11-17; make ~24-26 Nov so it posts near Hornbill; needs a never-dare safety line)
+- What if you swallowed chewing gum? '7 years in your stomach' myth (156K-view Hindi IG outlier, 95x median, 2026-11-14; scored 17 on 2026-11-17; health topic, keep strictly to Mayo-style facts)
+- What if you had infinite strength? (87K-view TikTok outlier, 43x, 2026-11-14; scored 15 on 2026-11-17; few checkable facts)
+- Note 2026-11-17: vidIQ outlier search worked again. 'Grow 10x every night' (1.2M TikTok, 237x, 2026-11-12) and 'grew 1 cm every second' (54K TikTok, 60x) drove the growth Reel; 'subah pass, shaam fail' height reel (1.2M Hindi IG, 783x, 2026-11-14) drove the spine Reel. Both are body/size topics: rest size-ladder formats for a week.
