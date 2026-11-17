@@ -3,5 +3,6 @@
   "captionHash": "1aa9e7329259de626fe9f45a6a61031fcc91c7ea250de4c1ad3f832289a79fda",
   "releaseAsset": "what-if-humans-could-photosynthesise-2c027e22d2c770fa.mp4",
   "containerId": "17944746966385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-17T12:39:27.894Z"
 }
