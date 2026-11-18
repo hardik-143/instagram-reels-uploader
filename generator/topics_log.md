@@ -87,9 +87,12 @@ Topics already made. Don't repeat them or close variants.
 
 - 2026-11-16 What if you lived on Mars? Mangalyaan first try 2014 / 95% CO2, <1% pressure, helmet / avg ~-60 °C, poles -128 °C / 38% gravity, 60 kg reads 23 kg / day 24 h 40 min / year 687 days, 20 = ~10 / Olympus Mons >2.5x Everest / twist: blue sunsets (Curiosity 2015) (`what-if-you-lived-on-mars`)
 - 2026-11-16 What if you walked inside a cloud? North India winter fog = cloud on the ground / IMD very dense <50 m, trains crawl / droplets ~0.02 mm, 1M per raindrop / fall ~1 cm/s / 1 km^3 cumulus ~500 t = ~100 elephants / bedroom of cloud ~25 g / twist: your winter breath is a tiny cloud (`what-if-you-walked-inside-a-cloud`)
-## Backlog ideas
 - 2026-11-17 What if you grew 1 cm every second? 60 cm a minute / 36 m an hour / Qutub Minar 72.5 m at 2 h / Burj Khalifa 828 m inside a day (864 m) / Everest ~10 days, 1/3 air pressure / 315 km a year vs ISS ~400 km / Moon ~1,200 years / twist: square-cube law, Galileo 1638, 2x taller = 8x heavier, 4x stronger bones (`what-if-you-grew-1cm-every-second`)
 - 2026-11-17 What if gravity stopped squashing you? 1-2 cm taller in the morning / 23 discs, water-rich gel / gravity squeezes fluid out by day, ~1 cm shorter by night / refill lying down / astronauts up to 3% (~5 cm) taller / most report back pain, shrink back in months / twist: tallest the second you get out of bed (`what-if-gravity-stopped-squashing-you`)
+- 2026-11-18 What if Africa split in two? East African Rift, Ethiopia to Mozambique / Nubian vs Somali plates ~6-7 mm a year, ~6x slower than nails / Afar 2005: 60 km, up to 8 m wide in ~3 weeks / viral 2018 Kenya crack = rain washing out ash / Ol Doinyo Lengai black ~500 °C lava turns white / new ocean in millions of years / twist: India broke off near Madagascar, up to ~20 cm a year (`what-if-africa-split-in-two`)
+- 2026-11-18 What if an immortal snail chased you? 100 crore + never age deal / ~1 mm/s, <4 m an hour / slime + pedal muscle waves / 86 m a day, 1 km ~12 days / Delhi-Mumbai ~1,150 km = ~36 years / London flight ~6,700 km = 200+ years / Earth lap ~1,270 years / real UK snails max ~25 m a day / twist: limpet teeth strongest natural material (`what-if-an-immortal-snail-chased-you`)
+
+## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
 - What if Earth had rings like Saturn?
@@ -213,3 +216,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you swallowed chewing gum? '7 years in your stomach' myth (156K-view Hindi IG outlier, 95x median, 2026-11-14; scored 17 on 2026-11-17; health topic, keep strictly to Mayo-style facts)
 - What if you had infinite strength? (87K-view TikTok outlier, 43x, 2026-11-14; scored 15 on 2026-11-17; few checkable facts)
 - Note 2026-11-17: vidIQ outlier search worked again. 'Grow 10x every night' (1.2M TikTok, 237x, 2026-11-12) and 'grew 1 cm every second' (54K TikTok, 60x) drove the growth Reel; 'subah pass, shaam fail' height reel (1.2M Hindi IG, 783x, 2026-11-14) drove the spine Reel. Both are body/size topics: rest size-ladder formats for a week.
+- What if you climbed the chilli ladder? Scoville scale / Bhut jolokia, Nagaland; Hornbill Festival 1-10 Dec tie-in (scored 21 on 2026-11-18; held so it posts closer to Hornbill; make ~24-26 Nov; needs a never-dare safety line)
+- What if you swallowed chewing gum? '7 years in your stomach' myth (156K-view Hindi IG outlier, 95x, 2026-11-14; scored 18 on 2026-11-18; health topic, keep strictly to medical-source facts)
+- What if time travellers were real? Where are they? Hawking's 2009 party invites sent after the event, verify (1.2M-view Hindi IG outlier, 7.3x, 2026-11-13; scored 18 on 2026-11-18; close to stop-time / see-present Reels)
+- Note 2026-11-18: vidIQ outlier search worked. 'Africa splitting / new ocean' (3M Hindi IG, 1258x, 2026-11-14; 570K Hindi IG, 146x, 2026-11-13) drove the Africa Reel; 'immortal snail' (588K TikTok, 466x, 2026-11-12) drove the snail Reel. Avoid asteroid-impact doom outliers (1M TikTok Mariana-trench impact). Moved the two 2026-11-17 Reels from Backlog into Made (they had landed under the Backlog header).
