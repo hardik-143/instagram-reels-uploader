@@ -3,5 +3,6 @@
   "captionHash": "0ccae06cdd613be9a6dba391977bfd619ff5b0a7540190a0aa6d2407170501b3",
   "releaseAsset": "what-if-you-walked-inside-a-cloud-d531aeb1c788f612.mp4",
   "containerId": "17945091195385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-20T04:37:07.366Z"
 }
