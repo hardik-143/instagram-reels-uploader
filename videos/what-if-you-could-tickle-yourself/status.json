@@ -3,5 +3,6 @@
   "captionHash": "88375fed960fe45eef99240ba2a7464a9f34ef284b95b40b4ed06da182be836f",
   "releaseAsset": "what-if-you-could-tickle-yourself-85e6e838b2a8a93c.mp4",
   "containerId": "17945500485385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-23T04:38:58.423Z"
 }
