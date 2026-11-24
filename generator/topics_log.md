@@ -103,6 +103,9 @@ Topics already made. Don't repeat them or close variants.
 - 2026-11-23 What if Earth had no tilt? 23.4 deg tilt (USNO) / no seasons / ~12 h day + 12 h night everywhere / Delhi one in-between season / endless sunrise at the poles / monsoon could vanish (hedged) / perihelion 3 Jan 2027, 147.1 million km, only ~3% closer (EarthSky, USNO) twist (`what-if-earth-had-no-tilt`)
 - 2026-11-23 What if you climbed the chilli ladder? Shimla mirch 0 / jalapeno up to ~8,000 / Guntur 35-40K / bhut jolokia ~1M, Guinness 2007 / Naga Mircha GI 2008 / Carolina Reaper 1.64M / Pepper X 2.69M (Guinness 2023) / pure capsaicin 16M, never-dare safety line / chilli came from the Americas via the Portuguese after 1498 twist; Hornbill Festival 1-10 Dec tie-in (`what-if-you-climbed-the-chilli-ladder`)
 
+- 2026-11-24 What if gravity doubled for a day? 60 kg reads 120 kg / blood sinks toward legs, stand up slowly / jump half as high / dropped phone ~40% faster (sqrt 2) / cricket hit roughly half as far / same-size ocean waves ~40% faster / relaxed ~3.5 g unprotected (SKYbrary), pilots ~9 g in g-suits / roller coaster up to ~3.5 g for seconds twist (`what-if-gravity-doubled-for-a-day`)
+- 2026-11-24 What if you were a hornbill for a day? Great hornbill ~3 kg, wings ~1.5 m / state bird of Kerala + Arunachal / hollow casque, aerial casque butting / steam-train wingbeats / mostly figs, all water from fruit / big-seed dispersal, farmers of the forest / female sealed in tree hole for months, fed through slit / India 9 species / Hornbill Festival 1-10 Dec / seal made mostly of poop twist (`what-if-you-were-a-hornbill`)
+
 ## Backlog ideas
 - What if India had no Himalayas?
 - What if dinosaurs never went extinct?
@@ -253,3 +256,7 @@ Topics already made. Don't repeat them or close variants.
 - What if you met time travellers? Hawking's 2009 party (scored 16 on 2026-11-23; close to stop-time / see-present / light-speed Reels)
 - What if you were a hornbill for a day? Great hornbill, Kerala + Arunachal state bird, female seals herself in the nest (new, scored 17 on 2026-11-23; held: cheetah animal-for-a-day Reel still queued and the chilli Reel already carries the Nagaland/Hornbill tie-in; facts not yet verified)
 - Note 2026-11-23: vidIQ out of credits again (resets 2026-11-29). Chilli ladder made on its planned window: queue was 8 deep, so it posts ~27 Nov, a few days before Hornbill (1-10 Dec, Kisama, 27th edition). No-tilt Reel is an evergreen pick timed for North India's winter and the 3 Jan perihelion; no fresh outlier evidence. Dropped the 'birds can't feel chilli heat' line: an unpublished feeder study (Audubon) says birds avoid seed above ~500K SHU.
+- What if you met time travellers? Hawking's 2009 party (scored 16 on 2026-11-24; close to stop-time / see-present / light-speed Reels)
+- What if you were frozen for 100 years? Wood frog (scored 16 on 2026-11-24; close to hibernate + tardigrade Reels)
+- What if you poured oil on a stormy sea? Franklin's teaspoon (scored 14 on 2026-11-24; weak Indian angle)
+- Note 2026-11-24: vidIQ out of credits again (resets 2026-11-29). Gravity-doubled Reel finally made after 4 holds (Titan Reel posts ~26 Nov, this ~28 Nov); hornbill Reel made for the Hornbill Festival (1-10 Dec 2026, Kisama; Time Out India) and posts ~28 Nov, a day after the chilli Reel. Dropped from gravity: plane take-off speed and rain speed (doubled air pressure would cancel the simple sqrt(g) scaling). Two animal-for-a-day Reels (cheetah 24 Nov, hornbill ~28 Nov) this week: rest that format for ~10 days.
