@@ -3,5 +3,6 @@
   "captionHash": "0e02c5b7f578a02ea26a7518b288ec26acd1561754c3ad98bb5a9ab36dcbd29f",
   "releaseAsset": "what-if-you-were-a-cheetah-0bc14cfcee51c97e.mp4",
   "containerId": "17945669595385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-24T12:40:27.971Z"
 }
