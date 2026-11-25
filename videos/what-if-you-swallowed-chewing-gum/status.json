@@ -3,5 +3,6 @@
   "captionHash": "0a429dcce990e9eb05639dc4973e6d6ab0eff429db87cb75b72585a210c7cea5",
   "releaseAsset": "what-if-you-swallowed-chewing-gum-6d9eb8b84f83b497.mp4",
   "containerId": "17945757924385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-25T04:36:57.366Z"
 }
