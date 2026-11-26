@@ -3,5 +3,6 @@
   "captionHash": "5ab3c76db4bb9a435230faa1b65b3b09acf3ea6a85278fe6d9fb956637444eda",
   "releaseAsset": "what-if-you-lived-on-titan-3392c5b2636184a1.mp4",
   "containerId": "17945889402385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-26T04:38:11.469Z"
 }
