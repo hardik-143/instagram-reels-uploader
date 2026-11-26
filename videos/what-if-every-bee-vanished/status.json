@@ -3,5 +3,6 @@
   "captionHash": "a29d1643355f099bf5df7af458b53cf588a9af6a4e00cddccf73469f16a691a5",
   "releaseAsset": "what-if-every-bee-vanished-76df17ad29d3e0ab.mp4",
   "containerId": "17945936235385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-26T12:40:57.132Z"
 }
