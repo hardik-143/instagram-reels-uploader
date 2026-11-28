@@ -3,5 +3,6 @@
   "captionHash": "f44f4939127262bf2e2c46449d3e20341c1140fc2d868071a630ae0f33948bd8",
   "releaseAsset": "what-if-gravity-doubled-for-a-day-99a2dd6295491109.mp4",
   "containerId": "17946150492385607",
-  "phase": "container_created"
+  "phase": "publish_requested",
+  "requestedAt": "2026-11-28T04:36:56.619Z"
 }
